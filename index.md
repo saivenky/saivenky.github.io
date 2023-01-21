@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # Sai Has A Blog
 
 This isn't the first time Sai has tried a blog. Some would say he's tried
