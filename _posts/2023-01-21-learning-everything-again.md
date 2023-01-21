@@ -20,12 +20,12 @@ self-aware of what I'm doing, but building the website is clearly not my
 overall intention.
 
 The main intention is writing content. I fool myself by thinking that if only I
-build a very minimal and sleak website, then I can *really* focus on the
-content.  Let me just tweak these few things before I start writing.
+build a very minimal and sleek website, then I can *really* focus on the
+content. Let me just tweak these few things before I start writing.
 
 Unfortunately, by the time I'm done tweaking, my motivation is also sapped.
 Time to move on to the next thing. Gotta focus on work or classes or personal
-life again.  Sometimes I have bursts of motivation so I'm still able to write
+life again. Sometimes I have bursts of motivation so I'm still able to write
 some content too. But I can only wonder how much more or how much longer my
 writing stint would've lasted if I focused on writing rather than coding.
 
