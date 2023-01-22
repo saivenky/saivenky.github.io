@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Learning Everything Again"
+tags: raw
 ---
 As a software engineer, it's easy to get caught up in details. After all,
 programming itself is a very detail-oriented skill. One skill that I've needed
