@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Obsidian and Git
-tags: raw
+tags:
+  - raw
+  - coding
 created: 2023-01-22
 ---
 I've been having some troubles with my new writing workflow. My goal is to:
