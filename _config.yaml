@@ -2,8 +2,12 @@ title: Sai Tries Blogging
 author: Sai
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Sai is software engineer and boulderer who tries hard. Life is hard though,
-  so he just keeps trying stuff until it works.
+  Sai is software engineer and boulderer who tries hard. Life is hard, but he
+  just keeps trying stuff until it works.
+
+header_pages:
+  - about.md
+  - preface.md
 
 # social links
 # twitter_username: jekyllrb
