@@ -1,3 +1,7 @@
+---
+layout: page
+title: Preface
+---
 The posts written here are my thoughts and my thoughts alone. Regardless of the pronouns or qualifiers I used in these posts, there is an implicit "I think" that should be added to the beginning of each sentence I write.
 
 When I say, something like "people that live in the city walk more", I'm actually saying "I think people that live in the city walk more".

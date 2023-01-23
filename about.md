@@ -1,3 +1,7 @@
+---
+layout: page
+title: About
+---
 My name is Sai.
 
 I've been a software engineer since 2010. I still consider myself a generalist, but I've narrowed my focus to "backend" technologies, because I still have an aversion to frontend. Over the years, I've realized and confirmed the belief that a good engineer is not just someone who is a good programmer.
