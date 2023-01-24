@@ -50,7 +50,7 @@ The cool thing is that Obsidian also processes the front matter for Tags. This m
 
 ### 3. Publishing
 
-As mentioned before, all published posts are within the `_posts/` folder. Because I'm using GitHub pages, this means I also am using Git to manage this content. You can use Git's [word-diff]([{% page_url /_posts/2023-01-22-obsidian-and-git %}]) to view sane diffs of what changed.
+As mentioned before, all published posts are within the `_posts/` folder. Because I'm using GitHub pages, this means I also am using Git to manage this content. You can use Git's [word-diff]([{% post_url /_posts/2023-01-22-obsidian-and-git %}]) to view sane diffs of what changed.
 
 For now, my commit history uses some structure. My commits start with:
 * `post: <Title>` for the first publish of a post
