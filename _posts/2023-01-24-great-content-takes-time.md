@@ -4,7 +4,7 @@ title: "Great Content Takes Time"
 tags:
   - raw
   - coding
-created: 2023-01-23
+created: 2023-01-24
 ---
 Great content takes time. This is no surprise, but producing great content also take practice. And if you practice every day, then don't get a lot of time.
 
