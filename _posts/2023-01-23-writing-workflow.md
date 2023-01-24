@@ -6,7 +6,7 @@ tags:
   - coding
 created: 2023-01-23
 ---
-Here's my proposed writing workflow with Obsidian and GitHub Pages.
+This is my writing workflow with Obsidian and GitHub Pages.
 
 ### Folder Structure
 ```
