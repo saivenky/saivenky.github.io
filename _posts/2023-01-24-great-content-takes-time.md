@@ -6,7 +6,7 @@ tags:
   - coding
 created: 2023-01-24
 ---
-Great content takes time. This is no surprise, but producing great content also take practice. And if you practice every day, then don't get a lot of time.
+Great content takes time. This is no surprise, but producing great content also take practice. And if you practice every day, then you don't get a lot of time.
 
 I realize this is a narrow view of practicing writing. And since I'm new at it, the closest analogy I can produce is to programming.
 
