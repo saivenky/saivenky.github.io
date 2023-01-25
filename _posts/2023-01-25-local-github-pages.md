@@ -2,9 +2,10 @@
 layout: post
 title: Local GitHub Pages
 tags:
-  - raw
+  - edited
   - coding
 created: 2023-01-25
+edited: 2023-01-25
 ---
 If you're new to the Ruby ecosystem, testing GitHub Pages locally may feel a bit strange.
 
