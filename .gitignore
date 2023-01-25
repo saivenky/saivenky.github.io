@@ -1,1 +1,8 @@
 .obsidian
+
+.ruby-version
+Gemfile
+Gemfile.lock
+
+.sass-cache
+_site
