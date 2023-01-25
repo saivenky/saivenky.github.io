@@ -5,6 +5,7 @@ tags:
   - raw
   - coding
 created: 2023-01-24
+date: 2023-01-24 00:00:00 -8000
 ---
 Great content takes time. This is no surprise, but producing great content also take practice. And if you practice every day, then you don't get a lot of time.
 
