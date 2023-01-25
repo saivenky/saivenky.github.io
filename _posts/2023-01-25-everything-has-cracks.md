@@ -27,13 +27,13 @@ Since 2.7 to 3.x will be a major upgrade, I'd hope that the GitHub team has alre
 
 ### How Bad Is It?
 
-Technically, nothing happens if you miss this deadline. You don't get a zero on your homework or anything like that. But because the branch no longer is patched with security updates, you are potentially exposing your company to security vulnerabilities.
+Technically, nothing happens if you miss this deadline. You don't get a zero on your homework or anything like that. But because the branch is not patched with security updates, you are potentially exposing your company to security vulnerabilities.
 
-But if something bad happens, it has high potential to be *really* bad. Like "it will make headlines" level bad. Do you really want your business to fail because you didn't update versions?
+If something bad happens, it has high potential to be *really* bad. Like "it will make headlines" level bad. Do you really want your business to fail because you didn't update versions?
 
-Seeing delayed updates isn't really new to me though. Even a company like YouTube was putting off their Python 2.7 upgrade until very close to the 2020 EOL date. I wouldn't blame them. They have hundreds of employees working on an multi-billion dollar product. It's hard to prioritize upgrades like this, especially a major version upgrade, when you know it has the potential to also hurt your business. Done poorly, you could end up breaking all your systems. Done well, users don't notice anything.
+Seeing delayed updates isn't really new to me though. Even a company like YouTube was putting off their Python 2.7 upgrade until very close to the 2020 EOL date. I wouldn't blame them. They have hundreds of employees working on an multi-billion dollar product.
 
-You may get performance improvements, which yes, yes I know also has positive impact on revenue. But relative to a feature release, the perception of the product isn't improved greatly doing version upgrades.
+It's hard to prioritize upgrades like this, especially a major version upgrade, when you know it has the potential to also hurt your business. Done poorly, you could end up breaking all your systems. Done well, users don't notice anything. Relative to a feature release, the perception of the product isn't improved greatly doing version upgrades.
 
 ### Everything Has Cracks
 
@@ -43,7 +43,7 @@ No matter how good something looks from the outside or at a high level, when you
 * Owning a house sounds nice until you realize there is almost non-stop for home maintenance.
 * Elon Musk seemed like a genius with Tesla until he lit $44 billion on fire.
 
-Take anything that you value, you will always notice the flaws when you learn more about it. I can keep giving examples, but this exercise is best done on your own.
+Take anything that you value or respect, you will always notice the flaws when you learn more about it. I can keep giving examples, but this exercise is best done on your own.
 
 ### Ignorance is Bliss
 
