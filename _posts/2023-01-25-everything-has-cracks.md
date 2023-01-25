@@ -21,7 +21,7 @@ According to [Ruby's maintenance branches](https://www.ruby-lang.org/en/download
 | 2.5 | 2017-12-25 | 2021-04-05 |
 | 2.4 | 2016-12-25 | 2022-03-31 |
 
-If I were a betting man and didn't have any more data points, I'd wager than 2.7 will have an end-of-life date of about late March or early April 2023 (about 3 months from now).
+If I were a betting man and didn't have any more data points, I'd wager that 2.7 will have an end-of-life date of about late March or early April 2023 (about 3 months from now).
 
 Since 2.7 to 3.x will be a major upgrade, I'd hope that the GitHub team has already started the process of upgrading. Their last minor version upgrade from 2.6 to 2.7 took "many months of work" and I'd expect a major version upgrade to take more time than that.
 
