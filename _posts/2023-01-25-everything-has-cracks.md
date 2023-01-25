@@ -4,7 +4,8 @@ title: "Everything Has Cracks"
 tags:
   - raw
   - coding
-created: 2023-01-25 08:36:00 -8000
+created: 2023-01-25
+date: 2023-01-25 08:36:00 -8000
 ---
 Technology looks good until you look closely. You can only see the cracks when you look closely. I noticed GitHub Pages first potential issue.
 
