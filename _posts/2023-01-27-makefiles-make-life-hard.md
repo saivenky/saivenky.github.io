@@ -32,7 +32,7 @@ So why is this a problem?
 
 In shell, you define a variable like so:
 
-```
+```shell
 export EXPORTED_VARIABLE="i'm available everywhere"
 # or
 VARIABLE="i'm available only within the script"
@@ -40,7 +40,7 @@ VARIABLE="i'm available only within the script"
 
 You can use a variable like this:
 
-```
+```shell
 echo $VARIABLE
 # or be safe and do
 echo "$VARIABLE"
@@ -52,7 +52,7 @@ Notice in that last line that we're using curly braces (i.e. `{` and `}`).
 
 When you need to run arbitrary commands and do something with the output, you can do this like so:
 
-```
+```shell
 LINES=`cat my_file.txt | sort | uniq | wc -l`
 # or
 ANOTHER_WAY="$(cat another_file) | sort | uniq | wc -l)"
@@ -68,7 +68,7 @@ If you've worked with Makefiles before, you already know the point I'm about to 
 
 In Makefiles, you define a variable like so:
 
-```
+```make
 VARIABLE := "some value"
 
 my_target:
@@ -81,7 +81,7 @@ endif
 ```
 
 What do you get when you run:
-```
+```shell
 make my_target
 make another_target
 ```
@@ -99,7 +99,7 @@ The counter-intuitive output is precisely the reason I dislike Makefiles. Let's 
 
 ### Intuitive Results in Shell Scripts
 
-```
+```shell
 # filename: my_script.sh
 
 VARIABLE="some value"
@@ -116,7 +116,7 @@ fi
 ```
 
 What do you expect if you run:
-```
+```shell
 source my_script.sh
 my_target
 another_target
@@ -134,7 +134,7 @@ variable was set
 
 Now let's pretend like you knew shell syntax you suspect the variable reference is at fault, so you try an alternative. Instead of just writing `$VARIABLE`, you write `${VARIABLE}`.
 
-```
+```make
 my_target:
     echo this is ${VARIABLE}
 
@@ -146,7 +146,7 @@ endif
 
 That doesn't work either. You get a syntax error at the conditional statement. Okay, let's look up how to do it and fix it...
 
-```
+```make
 ifdef VARIABLE
 ```
 
@@ -154,7 +154,7 @@ What?! This is absolutely not what I expect. But alright, we got it working.
 
 Now what if I want to execute a command? Let's change `my_target`:
 
-```
+```make
 my_target:
     echo this Makefile has $(cat Makefile | wc -l) lines
 ```
@@ -169,7 +169,7 @@ this Makefile has lines
 
 The issue is that `$(...)` is not a valid way to run a command and get it's output. Only backticks are valid. In fact, the more surprising thing is that `$(...)` is also a valid way to reference a variable.
 
-```
+```make
 my_target:
     echo this Makefile has `cat Makefile | wc -l` lines
     echo variable is set to $(VARIABLE)
