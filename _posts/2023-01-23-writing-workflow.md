@@ -36,7 +36,7 @@ Either way, both of these can easily be edited using Obsidian.
 
 In Jekyll (the static site generator used by GitHub Pages), Front Matter is the little section at the top that holds metadata. This metadata is used for determining the page layout, title of the page, and other data should you choose to customize how your metadata is processed. Mine currently looks like:
 
-```
+```yaml
 ---
 layout: post
 title: "Writing Workflow"
@@ -63,7 +63,7 @@ Afterwards, just push the commit to GitHub and GitHub Pages takes over.
 
 I want to treat posts as living, changing content. I'd like to treat it almost like documentation of topics or parts of my life. So I am currently freely changing published content. Git tracks it all, but I'm also tracking the last edited date via Front Matter like so:
 
-```
+```yaml
 ---
 edited: 2023-01-23
 ---
