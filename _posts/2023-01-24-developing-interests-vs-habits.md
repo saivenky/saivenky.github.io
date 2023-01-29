@@ -2,7 +2,7 @@
 layout: post
 title: "Developing Interests vs Habits"
 tags:
-  - raw
+  - thoughts
 created: 2023-01-24
 date: 2023-01-24 22:56:00 -8000
 ---

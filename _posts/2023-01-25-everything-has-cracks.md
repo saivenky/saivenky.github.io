@@ -2,7 +2,6 @@
 layout: post
 title: "Everything Has Cracks"
 tags:
-  - raw
   - coding
 created: 2023-01-25
 date: 2023-01-25 08:36:00 -8000

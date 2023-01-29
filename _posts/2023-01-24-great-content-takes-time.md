@@ -2,7 +2,6 @@
 layout: post
 title: "Great Content Takes Time"
 tags:
-  - raw
   - coding
 created: 2023-01-24
 date: 2023-01-24 00:00:00 -8000

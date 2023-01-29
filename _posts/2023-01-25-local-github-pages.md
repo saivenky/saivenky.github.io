@@ -2,7 +2,6 @@
 layout: post
 title: Local GitHub Pages
 tags:
-  - edited
   - coding
 created: 2023-01-25
 date: 2023-01-25 00:00:00 -8000

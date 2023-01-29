@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Standards for Cleanliness"
-tags: edited
+tags:
+  - thoughts
 created: 2023-01-23
+date: 2023-01-23
 edited: 2023-01-23
 ---
 Whenever I clean or straighten up around the house, I have an idea for what "clean" feels like. I am also mildly aware when things are getting messy. I've read that clutter is something that eventually turns into background noise, i.e you don't even notice it's there anymore. But when I make an effort to tidy up or clean, I have a mental image or notion of what "clean" should look or at the very least feel like. Where does that notion come from?

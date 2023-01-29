@@ -2,9 +2,9 @@
 layout: post
 title: "Makefiles Make Life Hard"
 tags:
-  - raw
   - coding
 created: 2023-01-27
+date: 2023-01-27
 ---
 As a software engineer, part of your role is to reduce complexity. The more you need to juggle in your head, the worse the solution. Being a "clever" coder that likes to show off your mental acrobatics is bad for long term maintainability. 
 

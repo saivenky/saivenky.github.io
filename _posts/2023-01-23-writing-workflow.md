@@ -2,9 +2,9 @@
 layout: post
 title: "Writing Workflow"
 tags:
-  - raw
   - coding
 created: 2023-01-23
+date: 2023-01-23
 ---
 This is my writing workflow with Obsidian and GitHub Pages.
 
