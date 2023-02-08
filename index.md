@@ -1,5 +1,6 @@
 ---
 layout: home
+list_title: "Posts"
 ---
 This isn't the first time Sai has tried a blog. Some would say he's tried
 multiple times. These people may even go far as to say he's tried 3 times.
