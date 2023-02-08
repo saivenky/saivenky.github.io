@@ -12,6 +12,8 @@ layout: default
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
+  {% elsif page.subindex %}
+    {% assign posts = site.pages | where: "dir", page.dir %}
   {% else %}
     {% assign posts = site.posts %}
   {% endif %}
@@ -24,6 +26,9 @@ layout: default
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
+        {%- if post.name == "index.md" -%}
+          {%- continue -%}
+        {%- endif -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
