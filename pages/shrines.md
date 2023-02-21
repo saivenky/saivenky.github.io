@@ -14,7 +14,7 @@ There are 120 shrines in Breath of the Wild. Inspired by this, I've created a se
 *8 total*
 
 * [ ] Hike [Iron Mountain](https://www.alltrails.com/trail/us/california/iron-mountain-trail--5) (5.9mi, 1125ft)
-* [ ] Hike [Iron Mountain](https://www.alltrails.com/trail/us/california/iron-mountain-trail--5) (5.9mi, 1125ft) with 25# pack
+* [x] ([Completed 2023-02-20](https://www.alltrails.com/explore/recording/afternoon-hike-at-iron-mountain-trail-f9ff654)) Hike [Iron Mountain](https://www.alltrails.com/trail/us/california/iron-mountain-trail--5) (5.9mi, 1125ft) with 25# pack
 * [ ] Hike [Iron Mountain](https://www.alltrails.com/trail/us/california/iron-mountain-trail--5) (5.9mi, 1125ft) with 35# pack
 * [ ] Hike [North Iron Mountain](https://www.alltrails.com/explore/map/north-iron-mountain-037a595) (6.3mi, 1555ft)
 * [ ] Hike [North Iron Mountain](https://www.alltrails.com/explore/map/north-iron-mountain-037a595) (6.3mi, 1555ft) with 25# pack
