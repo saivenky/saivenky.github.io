@@ -2,6 +2,8 @@
 title: "Challenge Shrines"
 created: 2023-02-20
 published: 2023-02-20
+excerpt: >
+  There are 120 shrines in Breath of the Wild. Inspired by this, I've created a set of real-life challenges for myself.
 ---
 There are 120 shrines in Breath of the Wild. Inspired by this, I've created a set of real-life challenges for myself.
 
