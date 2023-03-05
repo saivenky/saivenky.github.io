@@ -1,5 +1,5 @@
 ---
-title: "Shrines"
+title: "Challenge Shrines"
 created: 2023-02-20
 published: 2023-02-20
 ---
