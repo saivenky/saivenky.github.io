@@ -14,10 +14,10 @@ There are 120 shrines in Breath of the Wild. Inspired by this, I've created a se
 *8 total*
 
 * [ ] Hike [Iron Mountain](https://www.alltrails.com/trail/us/california/iron-mountain-trail--5) (5.9mi, 1125ft)
-* [x] ([Completed 2023-02-20](https://www.alltrails.com/explore/recording/afternoon-hike-at-iron-mountain-trail-f9ff654)) Hike [Iron Mountain](https://www.alltrails.com/trail/us/california/iron-mountain-trail--5) (5.9mi, 1125ft) with 25# pack
+* [x] Hike [Iron Mountain](https://www.alltrails.com/trail/us/california/iron-mountain-trail--5) (5.9mi, 1125ft) with 25# pack [[Completed 2023-02-20](https://www.alltrails.com/explore/recording/afternoon-hike-at-iron-mountain-trail-f9ff654)]
 * [ ] Hike [Iron Mountain](https://www.alltrails.com/trail/us/california/iron-mountain-trail--5) (5.9mi, 1125ft) with 35# pack
 * [ ] Hike [North Iron Mountain](https://www.alltrails.com/explore/map/north-iron-mountain-037a595) (6.3mi, 1555ft)
-* [ ] Hike [North Iron Mountain](https://www.alltrails.com/explore/map/north-iron-mountain-037a595) (6.3mi, 1555ft) with 25# pack
+* [x] Hike [North Iron Mountain](https://www.alltrails.com/explore/map/north-iron-mountain-037a595) (6.3mi, 1555ft) with 25# pack [[Completed 2023-02-26](https://www.alltrails.com/explore/recording/morning-hike-at-north-iron-mountain-427e342)]
 * [ ] Hike [Potato Chip Rock via Woodson Trail](https://www.alltrails.com/trail/us/california/potato-chip-rock-via-mt-woodson-trail) (7.4mi, 2109ft)
 * [ ] Hike [Potato Chip Rock via Woodson Trail](https://www.alltrails.com/trail/us/california/potato-chip-rock-via-mt-woodson-trail) (7.4mi, 2109ft) with 25# pack
 * [ ] Hike [Potato Chip Rock via Woodson Trail](https://www.alltrails.com/trail/us/california/potato-chip-rock-via-mt-woodson-trail) (7.4mi, 2109ft) with 35# pack
@@ -50,7 +50,7 @@ There are 120 shrines in Breath of the Wild. Inspired by this, I've created a se
 
 ### Climbing Challenges (5 total)
 
-* [ ] Complete 60 V2s in single session
+* [x] Complete 60 V2s in single session [Completed 2023-02-28]
 * [ ] Complete 80 V2s in single session
 * [ ] Complete single V6-V7
 * [ ] Complete 180 V-points in single session
