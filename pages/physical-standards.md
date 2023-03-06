@@ -42,7 +42,6 @@ At each level (except for Level 1):
 * **More**: +2.5K steps during the day (7.5K total)
     * OR Walk +15:00 outside
     * OR Climb
-* **Small**: Stretch quads and hamstrings (for 2x0:30 each)
 * Eat one (serving) of fruits. Does not include:
     * Watermelon
     * Dates
@@ -64,7 +63,8 @@ At each level (except for Level 1):
 |---|---|---|---|---|---|---|
 | Run | Run | **CLIMB** | Run | **CLIMB** | Run | **CLIMB** |
 
-* **Small**: Clip hangnails and apply hand lotion before bed
+* **Small**: Stretch legs
+    * OR Do stretching for sciatica
 * Eat one bowl (≥ 1 quart) of greens salad (only oil for dressing and dried fruit)
 
 
@@ -73,22 +73,28 @@ At each level (except for Level 1):
 * **More**: Exercise chest
     * 30 pushups
     * Bench (same day as climbing)
-        * OR 40-30-20-10 pushups
+        * OR 40-20-20-20 pushups
 
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |---|---|---|---|---|---|---|
 | 30 pushups | 30 pushups | **BENCH** | 30 pushups | **BENCH** | 30 pushups | **BENCH** |
 
-* **Small**: Stretch full body after running
 * Sleep (in bed without screens) before 10PM
 
 ### Level 6
 
+* **More**: Run every day (even on climbing days)
+    * Run for 20:00
+* **Small**: Stretch full body after running
+
+### Level 7
+
 * **More**: Wake up before 7AM (naturally). Criteria:
     * Cannot be in bed or lying down
-* **Small**: Exercise 20 jumping squats
+* **Small**: Finger training
+    * No hang with 25# for 2:00 per hand (any edge size)
 
-### Level 9-12
+### Level 8-12 (Ideas)
 
 * Run 3mi per day
 * 30 pullups (+50% BW)
