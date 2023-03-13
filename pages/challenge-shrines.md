@@ -37,8 +37,8 @@ There are 120 shrines in Breath of the Wild. Inspired by this, I've created a se
 
 ### Running Challenges (12 total)
 
-* [ ] Run 45:00 @ 4.4mph (5% incline)
-* [ ] Run 45:00 @ 4.4mph (7.5% incline)
+* [x] Run 45:00 @ 4.4mph (5% incline) [Completed 2023-03-05]
+* [x] Run 45:00 @ 4.4mph (7.5% incline) [Completed 2023-03-12]
 * [ ] Run 45:00 @ 4.4mph (10% incline)
 * [ ] Run 45:00 @ 4.4mph (12% incline)
 * [ ] Run 45:00 @ 5mph (5% incline)
@@ -57,3 +57,10 @@ There are 120 shrines in Breath of the Wild. Inspired by this, I've created a se
 * [ ] Complete single V6-V7
 * [ ] Complete 180 V-points in single session
 * [ ] Complete 200 V-points in single session
+
+### Step Challenges
+
+* [ ] 25K steps in one day
+* [ ] 30K steps in one day
+* [ ] 35K steps in one day
+* [ ] 40K steps in one day
