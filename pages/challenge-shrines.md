@@ -35,7 +35,7 @@ There are 120 shrines in Breath of the Wild. Inspired by this, I've created a se
 * [ ] Hike [El Cajon Mountain Trail](https://www.alltrails.com/explore/trail/us/california/el-cajon-mountain-trail) (11.0mi, 3579ft, starts 1557ft)
 * [ ] Hike [Oak Grove Trail to High Point](https://www.alltrails.com/explore/trail/us/california/oak-grove-trail-to-high-point) (13.0mi, 3494ft, starts 2769ft)
 
-### Running Challenges (12 total)
+## Running Challenges (12 total)
 
 * [x] Run 45:00 @ 4.4mph (5% incline) [Completed 2023-03-05]
 * [x] Run 45:00 @ 4.4mph (7.5% incline) [Completed 2023-03-12]
@@ -50,7 +50,7 @@ There are 120 shrines in Breath of the Wild. Inspired by this, I've created a se
 * [ ] Run 45:00 @ 5.4mph (10% incline)
 * [ ] Run 45:00 @ 5.4mph (12% incline)
 
-### Climbing Challenges (5 total)
+## Climbing Challenges (5 total)
 
 * [x] Complete 60 V2s in single session [Completed 2023-02-28]
 * [ ] Complete 80 V2s in single session
@@ -58,7 +58,7 @@ There are 120 shrines in Breath of the Wild. Inspired by this, I've created a se
 * [ ] Complete 180 V-points in single session
 * [ ] Complete 200 V-points in single session
 
-### Step Challenges
+## Step Challenges (4 total)
 
 * [ ] 25K steps in one day
 * [ ] 30K steps in one day
