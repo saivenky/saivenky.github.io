@@ -9,9 +9,9 @@ My site (this one), started serving weird stuff and I didn't know why.
 
 ### Hijacked or Hacked?
 
-A couple days ago, I got an email from Google Search Console Team, which I used for indexing and monitoring the quality of this site. It said that there was a new owner added. Umm. What? Rather than click the link from the email. I pulled up Google Search Console and checked from there. Yup. I saw the notification there too. So not a phishing attempt.
+A couple days ago, I got an email from Google Search Console Team, which I used for indexing and monitoring the quality of this site. It said that there was a new owner added. Umm. What? Rather than click the link from the email, I pulled up Google Search Console and checked from there. Yup. I saw the notification there too. So not a phishing attempt.
 
-Okay, so what's the damage. I still owned the domain and I was in control of serving the site. Wasn't I? I opened up a browser and went to this domain. Oh no. Rather than showing this blog, I got some strange spammy site in Indonesian.
+Okay, so what's the damage? I still owned the domain and I was in control of serving the site. Wasn't I? I opened up a browser and went to this domain. Oh no. Rather than showing this blog, I got some strange spammy site in Indonesian.
 
 Mind you, I've also been sick the past few days, so I didn't have enough energy to deal with this. But I knew I needed to at least make sure my accounts weren't hacked, so I hopped on to AWS to make sure Route 53 didn't have anything weird and that my S3 bucket also didn't have content that wasn't mine. Phew. My AWS account was at least intact.
 
