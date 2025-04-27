@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Evolution of Musical Preferences"
-tags:
-  - thoughts
+categories: habit
 created: 2023-01-28
 published: 2023-01-28
 edited: 2023-01-29

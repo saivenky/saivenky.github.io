@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Obsessions"
+categories: habit
 created: 2023-02-16
 published: 2023-02-16
 ---

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Mailmap Is Neat"
-tags:
-  - coding
+categories: dev
 created: 2023-02-06
 published: 2023-02-06
 ---

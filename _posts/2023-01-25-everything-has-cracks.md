@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Everything Has Cracks"
-tags:
-  - coding
+categories: dev
 created: 2023-01-25
 date: 2023-01-25 08:36:00 -8000
 ---

@@ -1,10 +1,8 @@
 ---
 layout: post
-tags:
-  - coding
 title: "x86 Python on M1 Macbooks"
+categories: dev
 created: 2023-02-17
-published: false
 ---
 This is a very niche post. But if you happen to need an `pyenv`-managed, x86-version of Python installed on your Apple M1 Macbook, then you can follow these steps. It's super simple once you know what approach to take. Figuring out the simplest approach was the hard part.
 

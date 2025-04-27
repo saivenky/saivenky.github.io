@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "My Site Got Hijacked"
-tags:
-  - coding
+categories: dev
 created: 2025-04-23
 ---
 My site (this one), started serving weird stuff and I didn't know why.

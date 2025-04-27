@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Standards for Cleanliness"
-tags:
-  - thoughts
+categories: habit
 created: 2023-01-23
 date: 2023-01-23
 edited: 2023-01-23

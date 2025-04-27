@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Makefiles Make Life Hard"
-tags:
-  - coding
+categories: dev
 created: 2023-01-27
 date: 2023-01-27
 ---

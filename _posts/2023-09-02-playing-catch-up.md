@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Playing Catch-Up"
-tags:
-  - thoughts
+categories: habit
 created: 2021-09-02
 date: 2023-09-03
 published: 2023-09-03

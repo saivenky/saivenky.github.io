@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rebranding Minimalism"
+categories: habit
 created: 2023-02-05 00:16 -8000
 published: 2023-02-05
 edited: 2023-02-05

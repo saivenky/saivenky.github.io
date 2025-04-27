@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Discovering Git Word Diff"
-tags:
-  - coding
+categories: dev
 created: 2023-01-22
 date: 2023-01-22
 edited: 2023-01-28

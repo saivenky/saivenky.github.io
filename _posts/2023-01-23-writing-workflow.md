@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Writing Workflow"
-tags:
-  - coding
+categories: dev
 created: 2023-01-23
 date: 2023-01-23
 ---
