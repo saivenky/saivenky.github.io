@@ -1,9 +1,9 @@
 title: Sai Tries Blogging
 author: Sai
 # email: your-email@domain.com
-description: > # this means to ignore newlines until "twitter_username:"
-  Sai is software engineer and boulderer who tries hard. Life is hard, but he
-  just keeps trying stuff until it works.
+description: >
+  Small wins in code, muscle & life that compound daily—quick dev fixes,
+  short strength sessions, and habit systems for high-performance living.
 
 header_pages:
   - about.md
