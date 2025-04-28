@@ -24,7 +24,7 @@ layout: default
 
       {%- assign posts = cat_posts | sort: "date" | reverse -%}
       <ul class="post-list">
-        {%- for post in posts limit:3 -%}
+        {%- for post in posts limit:2 -%}
           <li>
             <span class="post-meta">{{ post.date | date: date_format }}</span>
             <h3>
