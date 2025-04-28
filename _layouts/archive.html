@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+  {%- for post in site.posts -%}
+    {%- assign current_month = post.date | date: "%B %Y" -%}
+    {%- assign current_day = post.date | date: "%-d" -%}
+    {%- if current_month != post_month -%}
+    <h2>{{ current_month }}</h2>
+    {%- endif -%}
+    <ul>
+      <li>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            [{{ post.categories }}] {{ post.title | escape }}
+          </a>
+        
+      </li>
+    </ul>
+    {%- assign post_month = current_month -%}
+    {%- assign post_day = current_day -%}
+  {%- endfor -%}
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>

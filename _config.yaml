@@ -11,6 +11,7 @@ header_pages:
   - dev/index.md
   - strength/index.md
   - habit/index.md
+  - archive.md
 
 # social links
 # twitter_username: jekyllrb
