@@ -4,6 +4,7 @@ title: "Upper-Lower Split: A 45-Minute Strength Routine for Busy Parents"
 categories: strength
 created: 2025-04-27
 published: 2024-04-27
+edited: 2024-04-27
 excerpt: A 45-minute upper-lower routine for busy parents—four short sessions a week that build muscle, preserve joints, and fit around family life.
 ---
 ## Why I Paused Bouldering  
@@ -30,7 +31,7 @@ Met-cons left me drained; power-lifting aggravated my knees; classic bro-splits 
 | **Fri** | Lower | Leg press · Hamstring curl | 45 min |
 | **Sat–Sun** | Family time | Parks, hikes, recovery | — |
 
-When life reshuffles the calendar, I simply rotate **Upper → Lower → Rest**.
+If I want fewer or more rest, I simply rotate through **Upper → Lower → Rest**.
 
 > Programming follows Dr. Mike Israetel’s hypertrophy guidelines—enough volume for growth, enough rest to stay fresh.
 
