@@ -1,17 +1,38 @@
 ---
 layout: post
-title: "Writing Workflow"
+title: "Writing Workflow with Obsidian and GitHub Pages"
 categories: dev
+description: "A step‑by‑step look at how I draft, edit, and publish blog posts using Obsidian and GitHub Pages powered by Jekyll."
 created: 2023-01-23
 date: 2023-01-23
+edited: 2025-04-28
+tags:
+  - writing
+  - workflow
+  - obsidian
+  - git
+  - github pages
+  - jekyll
+  - blogging
 ---
-This is my writing workflow with Obsidian and GitHub Pages.
+My writing workflow is purpose‑built for speed and clarity. Here's the exact writing workflow I use to turn raw notes in Obsidian into polished articles served by Jekyll on GitHub Pages.
 
-### Folder Structure
-```
+## Why document the workflow?
+
+Writing it down forces me to keep the system simple, and-bonus-it lets you steal any part that helps you ship faster.
+
+## Why this stack?
+
+* **Obsidian** keeps all content as plain Markdown so I can version it.
+* **Jekyll** converts that Markdown into a fast static site.
+* **GitHub Pages** hosts the result for free and runs the build on every push.
+
+## Folder structure
+
+```text
 .
 ├── CNAME
-├── _config.yaml
+├── _config.yml
 ├── _drafts/
 ├── _posts/
 ├── about.md
@@ -19,55 +40,57 @@ This is my writing workflow with Obsidian and GitHub Pages.
 └── preface.md
 ```
 
-This root folder (i.e. what I labeled above as `.`) can now be:
-* Repository root in GitHub
-* Vault folder in Obsidian
+Repo root = Obsidian vault = GitHub repository. One folder, zero friction.
 
-### 1. Writing Content
+## 1. Draft in Obsidian
 
-Using Obsidian, I can now create content under `_drafts/` or in `_posts/`. Drafts is not published by default so you can just use this for private notes if you want. I have not decided exactly what I'm going to do with it yet, but for now, I've just imported a few "blog-like" notes that I had written using Notion.
+- Draft ideas live in `_drafts/`- on publishing the site, Jekyll excludes them, so I’m free to brain‑dump.
+- Once an idea “hatches,” I rename the file to the `YYYY-MM-DD-slug.md` format and move it to `_posts/`.
+- Obsidian’s backlink graph helps me connect posts as they develop.
 
-Once I incubate and hatch some of those thoughts, they might end up in `_posts/`. This is where I will have all published content.
+## 2. Add front matter early
 
-Either way, both of these can easily be edited using Obsidian.
-
-### 2. Front Matter (i.e. metadata)
-
-In Jekyll (the static site generator used by GitHub Pages), Front Matter is the little section at the top that holds metadata. This metadata is used for determining the page layout, title of the page, and other data should you choose to customize how your metadata is processed. Mine currently looks like:
+Every markdown file opens with YAML so Jekyll can render it and my theme can surface metadata:
 
 ```yaml
 ---
 layout: post
-title: "Writing Workflow"
-tags:
-  - raw
-created: 2023-01-23
+title: "How to Name Your Commits"
+tags: [git, workflow] # for SEO
+created: 2025‑04‑28 # if this started as a draft
+date: 2025-04-28 # published date
+edited: 2025‑04‑28 # last edited -- for tracking freshness
 ---
 ```
 
-The cool thing is that Obsidian also processes the front matter for Tags. This means I get free tooling to easily navigate tags as I'm writing or searching my content.
+Because Obsidian also processes the front matter for tags, you get free tooling to easily navigate tags while writing or searching content.
 
-### 3. Publishing
+Tip: set **`edited` or `last_modified_at`**—you'll thank yourself later.
 
-As mentioned before, all published posts are within the `_posts/` folder. Because I'm using GitHub pages, this means I also am using Git to manage this content. You can use Git's [word-diff]({% post_url 2023-01-22-discovering-git-word-diff %}) to view sane diffs of what changed.
+## 3. Commit & push with Git
 
-For now, my commit history uses some structure. My commits start with:
-* `post: <Title>` for the first publish of a post
-* `edit: <Description of edit>` for edits to content after the first publication
-* `meta: <Description of change to metadata>` for non-content (i.e. metadata) changes
+I treat commits as a changelog:
 
-Afterwards, just push the commit to GitHub and GitHub Pages takes over.
+- `post: writing‑workflow` — first publish  
+- `edit: clarify folder tree` — content change  
+- `meta: update tags` — metadata only  
 
-### 4. Editing
+Then: `git push origin main` and let GitHub Pages build.
 
-I want to treat posts as living, changing content. I'd like to treat it almost like documentation of topics or parts of my life. So I am currently freely changing published content. Git tracks it all, but I'm also tracking the last edited date via Front Matter like so:
+> Need to view clean diffs? Try `git diff --word-diff` (I wrote about it [here]({% post_url 2023-01-22-discovering-git-word-diff %})).
 
-```yaml
----
-edited: 2023-01-23
----
-```
+## 4. Iterate publicly
 
-The reason I'd like do this is to make a distinction between "raw" thoughts and ideas that I've iterated on a few times. To a reader, there should be a different in quality of the posts. The "raw" posts will appear more as "stream of consciousness", whereas the "edited" posts will have some structure.
+Posts are living docs. I refine them when:
 
-Key observation is that posts, drafts, raw, and edited are a 2x2 matrix. It's possible to have edited drafts and raw posts.
+1. A reader points out a gap.
+2. I learn something new.
+3. I spot awkward phrasing while researching a later post.
+
+Because front matter stores **`last_modified_at`**, readers know the post's freshness at a glance.
+
+## Takeaways
+
+- Keep the repo, vault,and site in one folder.
+- Add metadata early—future‑you will thank you.
+- Let Git history tell the story; your blog just needs the latest commit.
