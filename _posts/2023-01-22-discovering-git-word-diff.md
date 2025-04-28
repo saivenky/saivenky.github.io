@@ -4,7 +4,7 @@ title: "Discovering Git Word Diff"
 categories: dev
 created: 2023-01-22
 date: 2023-01-22
-edited: 2023-01-28
+last_modified_at: 2023-01-28
 ---
 When I use `git diff`, I want short diffs of what changed. When you are changing written content, that often includes paragraphs of text, the format of the saved file is quite important.
 

@@ -4,7 +4,7 @@ title: "Mindless Consumption"
 tags:
   - raw
 created: 2023-01-25
-edited: 2023-01-26
+last_modified_at: 2023-01-26
 ---
 Getting into a habit of mindless consumption is easy nowadays. Social media and tech companies have made it as easy as possible to get a dopamine hit.
 

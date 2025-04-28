@@ -5,7 +5,7 @@ categories: dev
 description: "A step‑by‑step look at how I draft, edit, and publish blog posts using Obsidian and GitHub Pages powered by Jekyll."
 created: 2023-01-23
 date: 2023-01-23
-edited: 2025-04-28
+last_modified_at: 2025-04-28
 tags:
   - writing
   - workflow
@@ -59,7 +59,7 @@ title: "How to Name Your Commits"
 tags: [git, workflow] # for SEO
 created: 2025‑04‑28 # if this started as a draft
 date: 2025-04-28 # published date
-edited: 2025‑04‑28 # last edited -- for tracking freshness
+last_modified_at: 2025‑04‑28 # last edited -- for tracking freshness
 ---
 ```
 

@@ -4,7 +4,7 @@ title: "Upper-Lower Split: A 45-Minute Strength Routine for Busy Parents"
 categories: strength
 created: 2025-04-27
 published: 2025-04-27
-edited: 2025-04-27
+last_modified_at: 2025-04-27
 excerpt: A 45-minute upper-lower routine for busy parents—four short sessions a week that build muscle, preserve joints, and fit around family life.
 ---
 ## Why I Paused Bouldering  

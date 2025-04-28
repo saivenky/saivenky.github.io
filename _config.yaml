@@ -11,7 +11,6 @@ header_pages:
   - dev/index.md
   - strength/index.md
   - habit/index.md
-  - archive.md
 
 # social links
 # twitter_username: jekyllrb
@@ -51,5 +50,6 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-sitemap
 
 permalink: /:year/:month/:day/:slug
