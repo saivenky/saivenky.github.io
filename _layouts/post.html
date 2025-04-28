@@ -12,7 +12,7 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {% if page.edited -%}
-        {%- assign mdate = page.edited | date_to_xmlschema -%}
+        {%- assign mdate = page.last_modified_at | date_to_xmlschema -%}
         | Edited:
         <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
             {{ mdate | date: date_format }}
