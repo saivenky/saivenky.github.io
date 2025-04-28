@@ -59,13 +59,13 @@ title: "How to Name Your Commits"
 tags: [git, workflow] # for SEO
 created: 2025‑04‑28 # if this started as a draft
 date: 2025-04-28 # published date
-last_modified_at: 2025‑04‑28 # last edited -- for tracking freshness
+last_modified_at: 2025‑04‑28 # for tracking freshness
 ---
 ```
 
 Because Obsidian also processes the front matter for tags, you get free tooling to easily navigate tags while writing or searching content.
 
-Tip: set **`edited` or `last_modified_at`**—you'll thank yourself later.
+Tip: set **`last_modified_at`**—you'll thank yourself later.
 
 ## 3. Commit & push with Git
 
