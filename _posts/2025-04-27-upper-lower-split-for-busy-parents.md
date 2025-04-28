@@ -31,7 +31,7 @@ Met-cons left me drained; power-lifting aggravated my knees; classic bro-splits 
 | **Fri** | Lower | Leg press · Hamstring curl | 45 min |
 | **Sat–Sun** | Family time | Parks, hikes, recovery | — |
 
-If I want fewer or more rest, I simply rotate through **Upper → Lower → Rest**.
+If I want more or less rest, I simply rotate through **Upper → Lower → Rest**.
 
 > Programming follows Dr. Mike Israetel’s hypertrophy guidelines—enough volume for growth, enough rest to stay fresh.
 
