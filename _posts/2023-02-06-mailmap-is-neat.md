@@ -1,43 +1,72 @@
 ---
 layout: post
-title: "Mailmap Is Neat"
-categories: dev
-created: 2023-02-06
-published: 2023-02-06
+title: "Clean Up Your Git History with .mailmap"
+category: dev
+date: 2023-02-06
+last_modified_at: 2025-04-28
+tags:
+  - git
+  - mailmap
+excerpt: Learn how to use Git’s built-in `.mailmap` file to fix wrong author names and email addresses and keep your contributors list tidy.
 ---
-I initially found mailmap in order to rewrite some Git history, but then realized it has use beyond one-time history rewrites. If you're creative, you can use it within enterprise too.
+## Why .mailmap?
 
-Git's official documentation is concise, so please read that too: https://git-scm.com/docs/gitmailmap
+Ever found your Git log peppered with variations of **you**—work laptop here, personal desktop there, maybe an ancient email you don’t even own?  
 
-Essentially, let's say your git history has commits with the wrong email address. This can be accidental or intentional. For example, on my laptop, if I forget to configure my Git user and email, my commits have an author of `Sai <sai@Laptop.local>` (or something similar).
+A `.mailmap` file tells Git:
 
-You can quickly amend this if this is the top commit:
+* “Whenever you see *this* author/email, show it as *that* instead.”  
+* No history rewrite, no force-push, no drama.
 
-```
-git commit --amend --author="Sai <sai@realemail>" --no-edit
-```
+Result? A spotless `git log` when viewing contributors and commit history. 
 
-Otherwise it gets a bit tricker but still possible if you add in `git rebase`:
+## Quick fix for **one** dangling commit  
 
-```
-git rebase -i HEAD~3
-# mark the commit in question with "edit"
-# use the git commit --amend line from before
-git rebase --continue
+If the **top** commit is the only offender:
+
+```bash
+git commit --amend --author="Sai <sai@real.email>" --no-edit
 ```
 
-Now what if you work at a company and you accidentally pushed a commit with the wrong email. If you have branch protection (which your company should if it doesn't), then that means it's a permanent part of your company's history. But suppose we want to at least make the commit history *look* nice, even if in reality it isn't. Enter `mailmap`.
+Done.
 
-If I create a `.mailmap` file with the following contents:
+## When the mistake is **already pushed**
 
+History is immutable on a protected branch-but **appearance** isn’t.
+
+Create a file named `.mailmap` at the repo root:
+
+```text
+Sai Tries Git <sai@real.email>  Sai <sai@Laptop.local>
 ```
-Sai Tries Git <sai@realemail> Sai <sai@Laptop.local>
+
+Now every `git log`, `git shortlog -sne`, and GitHub “Contributors” widget will show the canonical identity.
+
+Need to verify?
+
+```bash
+git check-mailmap "Sai <sai@Laptop.local>"
+# -> Sai Tries Git <sai@real.email>
 ```
 
-Then every occurrence of `Sai <sai@Laptop.local>` will be shown as `Sai Tries Git <sai@realemail>` in the commit history.
+## Enterprise-scale tricks
 
-Excellent.
+| Use-case | `.mailmap` pattern |
+| --- | --- |
+| Map to corporate email from personal email | `Sai <sai@corp.com> <sai@home.dev>` |
+| Consolidate many machines | `Sai <sai@corp.com> sai <laptop@local>`<br/>`Sai <sai@corp.com> Sai Tries Gaming <sai@gaming>` |
+| Slack handles for automating pinging authors | `@sai <sai@real.email> Sai <sai@real.email>` |
 
-Now suppose we introduce a mailmap file into your repo. Now we can really get creative and start fixing bad emails, or perhaps even creating mappings to company emails instead of private emails, etc. You could even consider tying your "name" the same as your Slack handle and use it to map usernames across two systems. Of course this would be a manual process, but it only needs to happen once per user.
+The file supports _names_, _emails_, or **both**. Blank lines and `# comments` are ignored.
 
-This acts like a layer abstracting away all the badness so `git log` and all history looks nice and neat. And as with all abstraction layers, the possibilities are endless!
+## Gotchas & tips
+
+* **File location** — `.mailmap` at repo root, or configure a path via `git config mailmap.file "path/to/file"`.
+* **No SHA change** — because commits stay untouched, your collaborators don’t need to re-clone.
+* **Keep it in source control** so future contributors inherit the mapping.
+
+## Next steps
+
+* Read the concise [official docs](https://git-scm.com/docs/gitmailmap).  
+* Pair this with `git shortlog -sne` for a one-liner **contributors report**.  
+* Want more small dev wins? Browse the **[Dev category](/dev)**.
