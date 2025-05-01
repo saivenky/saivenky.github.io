@@ -1,0 +1,24 @@
+name: Scheduled Pages Rebuild
+
+on:
+  # run daily at midnight utc
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+# give the workflow permission to kick off a Pages build
+permissions:
+  contents: read      # we don’t need to write code
+  pages: write        # allows GITHUB_TOKEN to call the Pages Builds API
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger GitHub Pages build
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github.ant-man-preview+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/${{ github.repository }}/pages/builds
+
