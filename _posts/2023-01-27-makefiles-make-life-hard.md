@@ -5,7 +5,7 @@ categories: dev
 created: 2023-01-27
 date: 2023-01-27
 ---
-As a software engineer, part of your role is to reduce complexity. The more you need to juggle in your head, the worse the solution. Being a "clever" coder that likes to show off your mental acrobatics is bad for long term maintainability. 
+As a software engineer, part of your role is to reduce complexity. The more you need to juggle in your head, the worse the solution. Being a "clever" coder that likes to show off your mental acrobatics is bad for long term maintainability.
 
 Personally, my memory is really bad. If there's a reason *not* to remember something, I will choose not to remember it. (I literally don't even remember my age sometimes. I remember my birthday and then work forwards from there.)
 

@@ -7,20 +7,20 @@ published: 2025-04-27
 last_modified_at: 2025-04-28
 excerpt: A 45-minute upper-lower routine for busy parents—four short sessions a week that build muscle, preserve joints, and fit around family life.
 ---
-## Why I Paused Bouldering  
+## Why I Paused Bouldering
 For almost ten years, bouldering was my sport of choice. Solving movement puzzles on the wall kept me engaged. After becoming a parent, however, three-hour climbing sessions and long rest periods no longer fit my schedule.
 
-## New Priorities  
-- **Strength relative to body-weight** — stay light, move well  
-- **Visible muscle** — look like I train without living at the gym  
-- **Low injury risk** — stay active with my child, not in rehab  
-- **Minimal fatigue** — toddler care is tiring enough  
-- **Time efficiency** — 45 minutes, door to door  
+## New Priorities
+- **Strength relative to body-weight** — stay light, move well
+- **Visible muscle** — look like I train without living at the gym
+- **Low injury risk** — stay active with my child, not in rehab
+- **Minimal fatigue** — toddler care is tiring enough
+- **Time efficiency** — 45 minutes, door to door
 
-## Why an Upper-Lower Split Works  
+## Why an Upper-Lower Split Works
 Met-cons left me drained; power-lifting aggravated my knees; classic bro-splits trained each muscle too infrequently. An upper-lower arrangement provides frequent stimulation, simple exercise selection, and quick recovery.
 
-## The 4-Day, 45-Minute Plan  
+## The 4-Day, 45-Minute Plan
 
 | Day | Focus | Core Lifts | Time |
 |-----|-------|------------|------|
@@ -35,5 +35,5 @@ If I want more or less rest, I simply rotate through **Upper → Lower → Rest*
 
 > Programming follows Dr. Mike Israetel’s hypertrophy guidelines—enough volume for growth, enough rest to stay fresh.
 
-## What I’ll Track  
+## What I’ll Track
 I have a DEXA scan scheduled for late May 2025 to capture lean mass, fat mass, and bone density. I’ll share those results once they’re in.

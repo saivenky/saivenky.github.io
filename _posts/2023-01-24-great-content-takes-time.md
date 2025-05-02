@@ -25,7 +25,7 @@ I can write grammatically correct sentences. I can group these sentences into pa
 
 ### Basic Practice for Beginners
 
-But I'm going to argue that this single facet practice is necessary. As a programmer, you need to get used to writing lots of code. You can read about how to write code, but the practicing writing is what makes it stick. 
+But I'm going to argue that this single facet practice is necessary. As a programmer, you need to get used to writing lots of code. You can read about how to write code, but the practicing writing is what makes it stick.
 
 Eventually, you start to recognize patterns. With those patterns, you can learn to write programs that have fewer bugs (equivalent to fewer grammatical errors or flow disruptions) or needs less refactoring (equivalent to less editing).
 

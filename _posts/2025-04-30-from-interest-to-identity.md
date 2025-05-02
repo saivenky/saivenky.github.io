@@ -38,7 +38,7 @@ If a practice clears all three lenses, I’m comfortable calling it _identity_.
 
 ## What flips the switch from interest → identity?
 
-1. **Critical mass of reps**  
+1. **Critical mass of reps**
    My working number is *14 days plus one major obstacle.* Miss a workout because the baby woke early? Bounce back the next day and the habit gains scar tissue. (This echoes the two-week threshold I floated in the Interests vs Habits post.)
 
 2. **Decision friction drops to ~zero**

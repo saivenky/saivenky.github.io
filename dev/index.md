@@ -1,6 +1,6 @@
 ---
 layout: subindex
 subindex: dev
-title: Dev 
+title: Dev
 description: Five-minute fixes for cleaner code.
 ---

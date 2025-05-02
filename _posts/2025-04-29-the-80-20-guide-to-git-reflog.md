@@ -17,17 +17,17 @@ To keep it focused: I'm covering the **few reflog moves that cover 80% of everyd
 ## What **is** the reflog (30s version)
 
 - Git stores every change of `HEAD` (and each branch) in a rolling log—**the reflog**.
-- Entries live for 90 days by default (`git config --get gc.reflogExpire`).  
+- Entries live for 90 days by default (`git config --get gc.reflogExpire`).
 - The reflog is *local*; it doesn’t travel with your pushes or pulls.
 
 That’s all you need to know to start rescuing things. The rest of this post shows you when and how.
 
 ## The 5 Most Common “Oh-No” Moments the Reflog Fixes 📋
 
-1. **Accidental hard reset**: you ran `git reset --hard` and lost unpushed commits.  
-2. **Deleted branch**: `git branch -D feature-xyz`—and then realised it had work in progress.  
-3. **Force push gone wrong**: you rewrote history on `main` and want the pre-push state.  
-4. **Rebase headache**: an interactive rebase went sideways and `HEAD` sits on the wrong commit.  
+1. **Accidental hard reset**: you ran `git reset --hard` and lost unpushed commits.
+2. **Deleted branch**: `git branch -D feature-xyz`—and then realised it had work in progress.
+3. **Force push gone wrong**: you rewrote history on `main` and want the pre-push state.
+4. **Rebase headache**: an interactive rebase went sideways and `HEAD` sits on the wrong commit.
 5. **Detached HEAD edits**: you checked out a commit, made changes, and now HEAD floats in space.
 
 If any of these sound familiar, keep reading. We’ll fix each with one short snippet.
@@ -140,13 +140,11 @@ _Reflog is the safety net underneath all the others._
 
 ## Building the Habit
 
-1. **Alias first** – add `gundo` today; muscle memory beats Google search.  
-2. **Run `git gundo` *before* you panic** – it’s often the fastest way to orient yourself.  
+1. **Alias first** – add `gundo` today; muscle memory beats Google search.
+2. **Run `git gundo` *before* you panic** – it’s often the fastest way to orient yourself.
 3. **Share the rescue** – next time you help a teammate, link them here (or show them your alias file).
 
 ### Next Reads
 
 * [My Site Got Hijacked → How I Recovered in an Hour]({% post_url 2025-04-23-my-site-got-hijacked %})
 * [Upper–Lower Split: A 45-Minute Strength Routine for Busy Parents]({% post_url 2025-04-27-upper-lower-split-for-busy-parents %})) - redeem that saved coding time in the gym.
-
-_Undo without fear—and ship faster because you know you can always rewind._

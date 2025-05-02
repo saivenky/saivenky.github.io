@@ -71,9 +71,9 @@ Tip: set **`last_modified_at`**—you'll thank yourself later.
 
 I treat commits as a changelog:
 
-- `post: writing‑workflow` — first publish  
-- `edit: clarify folder tree` — content change  
-- `meta: update tags` — metadata only  
+- `post: writing‑workflow` — first publish
+- `edit: clarify folder tree` — content change
+- `meta: update tags` — metadata only
 
 Then: `git push origin main` and let GitHub Pages build.
 

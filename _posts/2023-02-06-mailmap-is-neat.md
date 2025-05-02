@@ -11,16 +11,16 @@ excerpt: Learn how to use Git’s built-in `.mailmap` file to fix wrong author n
 ---
 ## Why .mailmap?
 
-Ever found your Git log peppered with variations of **you**—work laptop here, personal desktop there, maybe an ancient email you don’t even own?  
+Ever found your Git log peppered with variations of **you**—work laptop here, personal desktop there, maybe an ancient email you don’t even own?
 
 A `.mailmap` file tells Git:
 
-* “Whenever you see *this* author/email, show it as *that* instead.”  
+* “Whenever you see *this* author/email, show it as *that* instead.”
 * No history rewrite, no force-push, no drama.
 
-Result? A spotless `git log` when viewing contributors and commit history. 
+Result? A spotless `git log` when viewing contributors and commit history.
 
-## Quick fix for **one** dangling commit  
+## Quick fix for **one** dangling commit
 
 If the **top** commit is the only offender:
 
@@ -67,6 +67,6 @@ The file supports _names_, _emails_, or **both**. Blank lines and `# comments` a
 
 ## Next steps
 
-* Read the concise [official docs](https://git-scm.com/docs/gitmailmap).  
-* Pair this with `git shortlog -sne` for a one-liner **contributors report**.  
+* Read the concise [official docs](https://git-scm.com/docs/gitmailmap).
+* Pair this with `git shortlog -sne` for a one-liner **contributors report**.
 * Want more small dev wins? Browse the **[Dev category](/dev)**.
