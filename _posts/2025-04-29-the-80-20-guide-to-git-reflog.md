@@ -3,7 +3,7 @@ layout: post
 title: "The 80/20 Guide to Git’s ‘Reflog’—Undo Anything Without Fear"
 category: dev
 created: 2025-04-29
-date: 2025-05-07
+date: 2025-05-01
 excerpt: A practical, story-driven crash-course on `git reflog`. Learn the handful of commands that rescue 80% of real-world mistakes in under a minute.
 tags: [git, dev-tools, productivity]
 ---
