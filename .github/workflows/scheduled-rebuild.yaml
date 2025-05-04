@@ -1,9 +1,8 @@
 name: Scheduled Pages Rebuild
 
 on:
-  # run daily at midnight utc
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 14 * * *' # every day at 14:00 UTC → 07:00 PDT
   workflow_dispatch:
 
 # give the workflow permission to kick off a Pages build
