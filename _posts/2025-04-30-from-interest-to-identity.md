@@ -30,7 +30,7 @@ I've flirted with this question before, whether it was trying to journal after a
 
 |**Lens**|**What it asks**|**How I check it**|
 |---|---|---|
-|**Autonomy**|_Would I still do this if nobody asked me to?_|I spin up a side project instead of Netflix, just because tinkering feels good.|
+|**Autonomy**|_Would I still do this if nobody asked me to?_|I spin up a side project instead of YouTube, just because tinkering feels good.|
 |**Resilience**|_Does the habit bounce back after an unavoidable break?_|Miss a week of lifting while traveling? - Start the very next scheduled session, no make-ups.|
 |**Priority**|_Will I defend it against higher-status temptations?_|Laptop snaps shut at 7 p.m. so I can read bedtime stories, even if CI is red.|
 
@@ -73,7 +73,7 @@ That single comeback workout showed the routine can bend without breaking-exactl
 
 **Key lessons**
 
-1. **Plan for the pause.** I allow myself to miss up to two consecutive sessions for illness or travel-_no make-ups, no doubling._
+1. **Plan for the pause.** I allow myself to miss up to two consecutive sessions for illness or travel- _no make-ups, no doubling._
 2. **Do the smallest version that still feels like the program.** A half-sized Upper day on unfamiliar machines was enough to keep the mental thread intact.
 3. **Bounce back when the body says "go," not the calendar.** Missing a week didn't erase two months of momentum; quitting would have.
 
