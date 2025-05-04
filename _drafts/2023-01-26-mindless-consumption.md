@@ -14,11 +14,11 @@ The simplest implementation of this is behaving like a critic or reviewer. For e
 
 This has two effects:
 
-1.  Practice creating things: I’ve been talking about wanting to get practice writing content. This would facilitate with that goal.
+1.  Practice creating things: I've been talking about wanting to get practice writing content. This would facilitate with that goal.
 
-2.  Reduce mindless consumption: If I know I’m going to write something about what I’m consuming, then I need to pay more attention. I’ll need to be a bit more engaged or a bit more active when consuming.
+2.  Reduce mindless consumption: If I know I'm going to write something about what I'm consuming, then I need to pay more attention. I'll need to be a bit more engaged or a bit more active when consuming.
 
-    Another effect is that I may need to be critical of what I consume in the first place. If I know there is a higher cost to consuming content (i.e. in addition to time consuming, I need to spend time and energy creating something), then I hope I’ll be more selective about what I watch.
+    Another effect is that I may need to be critical of what I consume in the first place. If I know there is a higher cost to consuming content (i.e. in addition to time consuming, I need to spend time and energy creating something), then I hope I'll be more selective about what I watch.
 
 ### In Practice
 

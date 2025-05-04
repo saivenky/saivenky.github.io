@@ -44,9 +44,9 @@ Repo root = Obsidian vault = GitHub repository. One folder, zero friction.
 
 ## 1. Draft in Obsidian
 
-- Draft ideas live in `_drafts/`- on publishing the site, Jekyll excludes them, so I’m free to brain‑dump.
-- Once an idea “hatches,” I rename the file to the `YYYY-MM-DD-slug.md` format and move it to `_posts/`.
-- Obsidian’s backlink graph helps me connect posts as they develop.
+- Draft ideas live in `_drafts/`- on publishing the site, Jekyll excludes them, so I'm free to brain‑dump.
+- Once an idea "hatches," I rename the file to the `YYYY-MM-DD-slug.md` format and move it to `_posts/`.
+- Obsidian's backlink graph helps me connect posts as they develop.
 
 ## 2. Add front matter early
 
@@ -65,15 +65,15 @@ last_modified_at: 2025‑04‑28 # for tracking freshness
 
 Because Obsidian also processes the front matter for tags, you get free tooling to easily navigate tags while writing or searching content.
 
-Tip: set **`last_modified_at`**—you'll thank yourself later.
+Tip: set **`last_modified_at`**-you'll thank yourself later.
 
 ## 3. Commit & push with Git
 
 I treat commits as a changelog:
 
-- `post: writing‑workflow` — first publish
-- `edit: clarify folder tree` — content change
-- `meta: update tags` — metadata only
+- `post: writing‑workflow` - first publish
+- `edit: clarify folder tree` - content change
+- `meta: update tags` - metadata only
 
 Then: `git push origin main` and let GitHub Pages build.
 
@@ -92,5 +92,5 @@ Because front matter stores **`last_modified_at`**, readers know the post's fres
 ## Takeaways
 
 - Keep the repo, vault,and site in one folder.
-- Add metadata early—future‑you will thank you.
+- Add metadata early-future‑you will thank you.
 - Let Git history tell the story; your blog just needs the latest commit.

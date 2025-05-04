@@ -7,15 +7,15 @@ last_modified_at: 2025-04-28
 tags:
   - git
   - mailmap
-excerpt: Learn how to use Git’s built-in `.mailmap` file to fix wrong author names and email addresses and keep your contributors list tidy.
+excerpt: Learn how to use Git's built-in `.mailmap` file to fix wrong author names and email addresses and keep your contributors list tidy.
 ---
 ## Why .mailmap?
 
-Ever found your Git log peppered with variations of **you**—work laptop here, personal desktop there, maybe an ancient email you don’t even own?
+Ever found your Git log peppered with variations of **you**-work laptop here, personal desktop there, maybe an ancient email you don't even own?
 
 A `.mailmap` file tells Git:
 
-* “Whenever you see *this* author/email, show it as *that* instead.”
+* "Whenever you see *this* author/email, show it as *that* instead."
 * No history rewrite, no force-push, no drama.
 
 Result? A spotless `git log` when viewing contributors and commit history.
@@ -32,7 +32,7 @@ Done.
 
 ## When the mistake is **already pushed**
 
-History is immutable on a protected branch-but **appearance** isn’t.
+History is immutable on a protected branch-but **appearance** isn't.
 
 Create a file named `.mailmap` at the repo root:
 
@@ -40,7 +40,7 @@ Create a file named `.mailmap` at the repo root:
 Sai Tries Git <sai@real.email>  Sai <sai@Laptop.local>
 ```
 
-Now every `git log`, `git shortlog -sne`, and GitHub “Contributors” widget will show the canonical identity.
+Now every `git log`, `git shortlog -sne`, and GitHub "Contributors" widget will show the canonical identity.
 
 Need to verify?
 
@@ -61,8 +61,8 @@ The file supports _names_, _emails_, or **both**. Blank lines and `# comments` a
 
 ## Gotchas & tips
 
-* **File location** — `.mailmap` at repo root, or configure a path via `git config mailmap.file "path/to/file"`.
-* **No SHA change** — because commits stay untouched, your collaborators don’t need to re-clone.
+* **File location** - `.mailmap` at repo root, or configure a path via `git config mailmap.file "path/to/file"`.
+* **No SHA change** - because commits stay untouched, your collaborators don't need to re-clone.
 * **Keep it in source control** so future contributors inherit the mapping.
 
 ## Next steps

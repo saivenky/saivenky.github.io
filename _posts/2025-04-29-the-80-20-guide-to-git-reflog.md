@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The 80/20 Guide to Git’s ‘Reflog’—Undo Anything Without Fear"
+title: "The 80/20 Guide to Git's 'Reflog'-Undo Anything Without Fear"
 category: dev
 created: 2025-04-29
 date: 2025-05-01
@@ -8,7 +8,7 @@ excerpt: A practical, story-driven crash-course on `git reflog`. Learn the handf
 tags: [git, dev-tools, productivity]
 ---
 Last Monday while cleaning up some old branches, I pruned a feature branch that I was working on and **and nuked a week's worth of work**.
-The fix took *fifteen seconds*—not because I’m a wizard, but because I finally grok **`git reflog`**.
+The fix took *fifteen seconds*-not because I'm a wizard, but because I finally grok **`git reflog`**.
 
 If you've ever typed `git reset --hard` or deleted a branch and then gone _Oh \*\*\*\*_, this guide is for you.
 
@@ -16,23 +16,23 @@ To keep it focused: I'm covering the **few reflog moves that cover 80% of everyd
 
 ## What **is** the reflog (30s version)
 
-- Git stores every change of `HEAD` (and each branch) in a rolling log—**the reflog**.
+- Git stores every change of `HEAD` (and each branch) in a rolling log-**the reflog**.
 - Entries live for 90 days by default (`git config --get gc.reflogExpire`).
-- The reflog is *local*; it doesn’t travel with your pushes or pulls.
+- The reflog is *local*; it doesn't travel with your pushes or pulls.
 
-That’s all you need to know to start rescuing things. The rest of this post shows you when and how.
+That's all you need to know to start rescuing things. The rest of this post shows you when and how.
 
-## The 5 Most Common “Oh-No” Moments the Reflog Fixes 📋
+## The 5 Most Common "Oh-No" Moments the Reflog Fixes 📋
 
 1. **Accidental hard reset**: you ran `git reset --hard` and lost unpushed commits.
-2. **Deleted branch**: `git branch -D feature-xyz`—and then realised it had work in progress.
+2. **Deleted branch**: `git branch -D feature-xyz`-and then realised it had work in progress.
 3. **Force push gone wrong**: you rewrote history on `main` and want the pre-push state.
 4. **Rebase headache**: an interactive rebase went sideways and `HEAD` sits on the wrong commit.
 5. **Detached HEAD edits**: you checked out a commit, made changes, and now HEAD floats in space.
 
-If any of these sound familiar, keep reading. We’ll fix each with one short snippet.
+If any of these sound familiar, keep reading. We'll fix each with one short snippet.
 
-## TL;DR Cheat-Sheet (“gundo” Alias)
+## TL;DR Cheat-Sheet ("gundo" Alias)
 
 Add this to your `.gitconfig`:
 
@@ -52,7 +52,7 @@ git gundo 5         # show last 5 (faster)
 
 Copy-paste now; thank yourself later.
 
-## Scenario 1 – Recover After `git reset --hard`
+## Scenario 1 - Recover After `git reset --hard`
 
 ```bash
 # Step 1: See where HEAD *was* before the reset
@@ -64,11 +64,11 @@ git gundo 3
 git reset --hard 741fcb8
 ```
 
-🎉 You’re back on the last good commit. Push (or re-push) as needed.
+🎉 You're back on the last good commit. Push (or re-push) as needed.
 
-## Scenario 2 – Revive a Deleted Branch
+## Scenario 2 - Revive a Deleted Branch
 
-You deleted `feature-linter`, but the work isn’t on any remote.
+You deleted `feature-linter`, but the work isn't on any remote.
 
 ```bash
 git gundo | grep feature-linter
@@ -77,9 +77,9 @@ git gundo | grep feature-linter
 git checkout -b feature-linter fb0d211
 ```
 
-The branch—and your work—are alive again.
+The branch-and your work-are alive again.
 
-## Scenario 3 – Undo a Bad Force Push
+## Scenario 3 - Undo a Bad Force Push
 
 1. Note the hash *before* the push:
 
@@ -98,7 +98,7 @@ The branch—and your work—are alive again.
 
 Remote teammates breathe easy.
 
-## Scenario 4 – Abort a Messy Rebase
+## Scenario 4 - Abort a Messy Rebase
 
 During an interactive rebase you realise everything is tangled:
 
@@ -108,7 +108,7 @@ git gundo 4                   # find HEAD before rebase
 git reset --hard <good-hash>  # or checkout, if you prefer
 ```
 
-## Scenario 5 – Save Work from a Detached HEAD
+## Scenario 5 - Save Work from a Detached HEAD
 
 ```bash
 git commit -am "temp changes"
@@ -133,18 +133,18 @@ Now entries linger six months before garbage collection.
 |---------------------|----------|--------|
 | `git reflog`        | Any local history change | Local only |
 | `git stash`         | Quick WIP snapshots | Easy to forget stashes |
-| `git reset --soft`  | Move HEAD, keep index | Doesn’t help after `--hard` |
+| `git reset --soft`  | Move HEAD, keep index | Doesn't help after `--hard` |
 | `git restore`       | Undo file changes | Newer Git (2.23+) |
 
 _Reflog is the safety net underneath all the others._
 
 ## Building the Habit
 
-1. **Alias first** – add `gundo` today; muscle memory beats Google search.
-2. **Run `git gundo` *before* you panic** – it’s often the fastest way to orient yourself.
-3. **Share the rescue** – next time you help a teammate, link them here (or show them your alias file).
+1. **Alias first** - add `gundo` today; muscle memory beats Google search.
+2. **Run `git gundo` *before* you panic** - it's often the fastest way to orient yourself.
+3. **Share the rescue** - next time you help a teammate, link them here (or show them your alias file).
 
 ### Next Reads
 
 * [My Site Got Hijacked → How I Recovered in an Hour]({% post_url 2025-04-23-my-site-got-hijacked %})
-* [Upper–Lower Split: A 45-Minute Strength Routine for Busy Parents]({% post_url 2025-04-27-upper-lower-split-for-busy-parents %})) - redeem that saved coding time in the gym.
+* [Upper-Lower Split: A 45-Minute Strength Routine for Busy Parents]({% post_url 2025-04-27-upper-lower-split-for-busy-parents %})) - redeem that saved coding time in the gym.
