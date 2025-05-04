@@ -12,11 +12,15 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {% if page.last_modified_at -%}
+        {% assign mod_ts = page.last_modified_at | date: "%s" | plus: 0 %}
+        {% assign pub_ts = page.date             | date: "%s" | plus: 0 %}
+        {% if mod_ts > pub_ts -%}
         {%- assign mdate = page.last_modified_at | date_to_xmlschema -%}
         | Last Modified:
         <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
             {{ mdate | date: date_format }}
         </time>
+        {%- endif -%}
       {%- endif -%}
       {%- if page.author -%}
         • {% for author in page.author %}
