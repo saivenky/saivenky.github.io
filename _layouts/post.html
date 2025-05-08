@@ -12,11 +12,12 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {% if page.last_modified_at -%}
+      <span class="post-meta-item">•</span>
         {% assign mod_ts = page.last_modified_at | date: "%s" | plus: 0 %}
         {% assign pub_ts = page.date             | date: "%s" | plus: 0 %}
         {% if mod_ts > pub_ts -%}
         {%- assign mdate = page.last_modified_at | date_to_xmlschema -%}
-        | Last Modified:
+        Last Modified:
         <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
             {{ mdate | date: date_format }}
         </time>
@@ -28,7 +29,14 @@ layout: default
             <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
-      {%- endif -%}</p>
+      {%- endif -%}
+      <span class="post-meta-item">•</span>
+      {% assign words = content | number_of_words %}
+      {% assign mins  = words | divided_by:200 | ceil %}
+      <time class="post-meta-item" datetime="PT{{ mins }}M">
+        {{ mins }} min read
+      </time>
+    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
