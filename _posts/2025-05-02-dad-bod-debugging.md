@@ -4,11 +4,11 @@ title: "Dad‑Bod Debugging: 5‑Day MA Fat‑Loss Plan in Obsidian"
 categories: [strength]
 created: 2025-05-02
 date: 2025-05-08
-excerpt: "Log weight in Obsidian, use a 5‑day MA trendline, and a step dial to melt dad‑bod fat without sacrificing muscle—or toddler playtime."
-tags: [fat‑loss, moving‑average, obsidian, dataviewjs, step‑count, parent‑life, neat]
+excerpt: "With Obsidian for weight logs, a 5‑day MA trendline for clarity, and a simple step‑count dial, you can shed dad‑bod fat while keeping both muscle and toddler playtime intact—thanks to hybrid low‑impact cardio and compound lifts."
+tags: [fat‑loss, moving‑average, obsidian, dataviewjs, step‑count, parent‑life, neat, developer-dad, hybrid-training]
 ---
 
-## 6 a.m. Scale Jitters vs. a Bowl of Oatmeal 🥣
+## 6 a.m. Scale Jitters vs. Toddler Breakfast Sprint 🥣
 
 The kid is already sprint‑crawling for breakfast. I sneak onto the scale, watch the number flash, and decide—*nope, not letting that one datapoint hijack my mood*.
 
