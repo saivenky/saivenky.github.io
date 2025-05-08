@@ -85,5 +85,5 @@ _**Disclaimer**: I’m a data‑driven dad, not your doctor. Talk to a pro befor
 *I’ll share the first DEXA + MA chart combo in **June 2025**. You might enjoy these other posts in the meantime.*
 
 * **[Upper‑Lower Split: 45‑Minute Strength for Busy Parents]({% post_url 2025-04-27-upper-lower-split-for-busy-parents %})** — the program behind these guardrails.
-* **[From Interest to Identity: When Repetition Becomes “Who I Am”]({% post_url 2025-05-05-from-interest-to-identity%})** — how tiny data points hard‑wire habits.
+* **[From Interest to Identity: When Repetition Becomes “Who I Am”]({% post_url 2025-04-30-from-interest-to-identity%})** — how tiny data points hard‑wire habits.
 * **[Writing Workflow with Obsidian + GitHub Pages]({% post_url 2023-01-23-writing-workflow %})** — the pipeline that makes this post auto‑update itself.
