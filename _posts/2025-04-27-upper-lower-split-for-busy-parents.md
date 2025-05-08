@@ -4,7 +4,7 @@ title: "Upper-Lower Split: A 45-Minute Strength Routine for Busy Parents"
 categories: strength
 created: 2025-04-27
 published: 2025-04-27
-last_modified_at: 2025-04-28
+last_modified_at: 2025-05-08
 excerpt: A 45-minute upper-lower routine for busy parents-four short sessions a week that build muscle, preserve joints, and fit around family life.
 redirect_from: /2025/04/27/upper-lower-split-for-busy-parents
 ---
@@ -37,4 +37,4 @@ If I want more or less rest, I simply rotate through **Upper → Lower → Rest*
 > Programming follows Dr. Mike Israetel's hypertrophy guidelines-enough volume for growth, enough rest to stay fresh.
 
 ## What I'll Track
-I have a DEXA scan scheduled for late May 2025 to capture lean mass, fat mass, and bone density. I'll share those results once they're in.
+I have a DEXA scan scheduled for late June 2025 to capture lean mass, fat mass, and bone density. I'll share those results once they're in.
