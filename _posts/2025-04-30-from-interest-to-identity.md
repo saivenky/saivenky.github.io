@@ -3,7 +3,7 @@ layout: post
 title: "From Interest to Identity: When Repetition Becomes \"Who I Am\""
 created: 2025-04-30
 date: 2025-05-05
-last_modified_at: 2025-05-03
+last_modified_at: 2025-05-08
 categories: habit
 excerpt: "From nighttime stroller walks to strength workouts, here’s how micro‑habits snowball into an unshakable identity."
 tags:
@@ -74,15 +74,15 @@ Back in February I launched my [Upper-Lower Split for Busy Parents]({% post_url 
 
 That single comeback workout showed the routine can bend without breaking-exactly what the litmus test is looking for.
 
-**Key lessons**
+## Key Lessons
 
 1. **Plan for the pause.** I allow myself to miss up to two consecutive sessions for illness or travel- _no make-ups, no doubling._
 2. **Do the smallest version that still feels like the program.** A half-sized Upper day on unfamiliar machines was enough to keep the mental thread intact.
 3. **Bounce back when the body says "go," not the calendar.** Missing a week didn't erase two months of momentum; quitting would have.
 
-That single "I'm back" workout mattered more than the seven perfect weeks before it. The habit is sturdier now, not because it was flawless, but because it proved it can bend and not break.
+That single "I'm back" workout mattered more than the perfect weeks before it. The habit is sturdier now, not because it was flawless, but because it proved it can bend and not break.
 
-Next Monday I'll dissect the **Automate → Iterate → Ignore** pipeline that strips decision friction from training, coding, and even breakfast. Until then, line up your own first-obstacle test-and give yourself permission to pause and press _continue_ rather than _reset_.
+Any plan—upper‑lower, full‑body, or whatever mash-up you’re running—earns its stripes the first time life body‑checks you and the whole thing still lurches back to speed. Don’t chase perfection; chase the comeback rep. If your program bends without snapping, you can ride it for years, layering strength over software sprints until the routine feels less like something you do and more like the scaffolding of who you are.
 
 ### Next Reads
 
