@@ -5,6 +5,7 @@ categories: habit
 created: 2021-09-02
 date: 2023-09-03
 published: 2023-09-03
+redirect_from: /2023/09/03/playing-catch-up
 ---
 I always try to play catch-up when I restart journaling. I often end up not journaling at all because I feel compelled to journal each day that I'd forgotten to journal.
 

@@ -5,6 +5,7 @@ categories: dev
 created: 2023-01-22
 date: 2023-01-22
 last_modified_at: 2023-01-28
+redirect_from: /2023/01/22/discovering-git-word-diff
 ---
 When I use `git diff`, I want short diffs of what changed. When you are changing written content, that often includes paragraphs of text, the format of the saved file is quite important.
 

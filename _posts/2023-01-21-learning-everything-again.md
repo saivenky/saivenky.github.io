@@ -6,6 +6,7 @@ tags:
 created: 2023-01-21
 date: 2023-01-21
 last_modified_at: 2023-01-28
+redirect_from: /2023/01/21/learning-everything-again
 ---
 As a software engineer, it's easy to get caught up in details. Programming itself is a very detail-oriented skill.
 

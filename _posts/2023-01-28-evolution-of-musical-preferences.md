@@ -5,6 +5,7 @@ categories: habit
 created: 2023-01-28
 published: 2023-01-28
 last_modified_at: 2023-01-29
+redirect_from: /2023/01/28/evolution-of-musical-preferences
 ---
 Listening to music sometime has a nostalgic effect on me. Similar to familiar sights and smells, when I listen to songs that I used to listen to, I'm transported back to a different period in my life.
 

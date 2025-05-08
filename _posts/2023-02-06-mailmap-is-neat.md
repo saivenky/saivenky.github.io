@@ -8,6 +8,7 @@ tags:
   - git
   - mailmap
 excerpt: Learn how to use Git's built-in `.mailmap` file to fix wrong author names and email addresses and keep your contributors list tidy.
+redirect_from: /2023/02/06/mailmap-is-neat
 ---
 ## Why .mailmap?
 

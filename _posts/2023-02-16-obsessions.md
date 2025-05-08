@@ -4,6 +4,7 @@ title: "Obsessions"
 categories: habit
 created: 2023-02-16
 published: 2023-02-16
+redirect_from: /2023/02/16/obsessions
 ---
 Obsession and stubbornness go hand in hand. After about 36 gnarly hours of obsessing about a problem at work, I'm finally about to sleep with some peace of mind.
 

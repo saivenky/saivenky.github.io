@@ -14,6 +14,7 @@ tags:
   - github pages
   - jekyll
   - blogging
+redirect_from: /2023/01/23/writing-workflow
 ---
 My writing workflow is purpose‑built for speed and clarity. Here's the exact writing workflow I use to turn raw notes in Obsidian into polished articles served by Jekyll on GitHub Pages.
 

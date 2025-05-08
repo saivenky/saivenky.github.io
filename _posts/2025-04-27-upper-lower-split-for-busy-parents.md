@@ -6,6 +6,7 @@ created: 2025-04-27
 published: 2025-04-27
 last_modified_at: 2025-04-28
 excerpt: A 45-minute upper-lower routine for busy parents-four short sessions a week that build muscle, preserve joints, and fit around family life.
+redirect_from: /2025/04/27/upper-lower-split-for-busy-parents
 ---
 ## Why I Paused Bouldering
 For almost ten years, bouldering was my sport of choice. Solving movement puzzles on the wall kept me engaged. After becoming a parent, however, three-hour climbing sessions and long rest periods no longer fit my schedule.

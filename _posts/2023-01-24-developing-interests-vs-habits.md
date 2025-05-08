@@ -4,6 +4,7 @@ title: "Developing Interests vs Habits"
 tags: habit
 created: 2023-01-24
 date: 2023-01-24 22:56:00 -8000
+redirect_from: /2023/01/24/developing-interests-vs-habits
 ---
 When I get obsessed with something, it takes approximately 1-3 days to take hold.
 

@@ -5,6 +5,7 @@ categories: dev
 created: 2023-01-25
 date: 2023-01-25 00:00:00 -8000
 last_modified_at: 2023-01-25
+redirect_from: /2023/01/25/local-github-pages
 ---
 If you're new to the Ruby ecosystem, testing GitHub Pages locally may feel a bit strange.
 

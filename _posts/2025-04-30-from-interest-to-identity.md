@@ -14,6 +14,7 @@ tags:
   - engineer
   - fitness
   - family-life
+redirect_from: /2025/05/05/from-interest-to-identity
 ---
 
 *Code shipped, gym session logged, nighttime stroller loop finished.* Three tiny wins that—done often enough—stop feeling like chores and start sounding like *me*.

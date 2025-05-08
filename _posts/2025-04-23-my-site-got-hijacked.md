@@ -3,6 +3,7 @@ layout: post
 title: "My Site Got Hijacked"
 categories: dev
 created: 2025-04-23
+redirect_from: /2025/04/23/my-site-got-hijacked
 ---
 My site (this one), started serving weird stuff and I didn't know why.
 

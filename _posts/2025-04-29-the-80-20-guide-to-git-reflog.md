@@ -6,6 +6,7 @@ created: 2025-04-29
 date: 2025-05-01
 excerpt: A practical, story-driven crash-course on `git reflog`. Learn the handful of commands that rescue 80% of real-world mistakes in under a minute.
 tags: [git, dev-tools, productivity]
+redirect_from: /2025/05/01/the-80-20-guide-to-git-reflog
 ---
 Last Monday while cleaning up some old branches, I pruned a feature branch that I was working on and **and nuked a week's worth of work**.
 The fix took *fifteen seconds*-not because I'm a wizard, but because I finally grok **`git reflog`**.

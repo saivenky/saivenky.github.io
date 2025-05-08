@@ -4,6 +4,7 @@ title: "Great Content Takes Time"
 tags: habit
 created: 2023-01-24
 date: 2023-01-24 00:00:00 -8000
+redirect_from: /2023/01/24/great-content-takes-time
 ---
 Great content takes time. This is no surprise, but producing great content also take practice. And if you practice every day, then you don't get a lot of time.
 

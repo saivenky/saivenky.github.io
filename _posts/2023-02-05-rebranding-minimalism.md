@@ -5,6 +5,7 @@ categories: habit
 created: 2023-02-05 00:16 -8000
 published: 2023-02-05
 last_modified_at: 2023-02-05
+redirect_from: /2023/02/05/rebranding-minimalism
 ---
 I'm embarrassed to say this, but I spent nearly 1 hour looking for the "right" movie to watch. Decision paralysis is real. Movies aside, I think this is one of the main reasons to have fewer decisions.
 

@@ -6,6 +6,7 @@ created: 2025-05-02
 date: 2025-05-08
 excerpt: "With Obsidian for weight logs, a 5‑day MA trendline for clarity, and a simple step‑count dial, you can shed dad‑bod fat while keeping both muscle and toddler playtime intact—thanks to hybrid low‑impact cardio and compound lifts."
 tags: [fat‑loss, moving‑average, obsidian, dataviewjs, step‑count, parent‑life, neat, developer-dad, hybrid-training]
+redirect_from: /2025/05/08/dad-bod-debugging
 ---
 
 ## 6 a.m. Scale Jitters vs. Toddler Breakfast Sprint 🥣
