@@ -47,6 +47,6 @@ This post is *Part 1* of a five-part build-log that will finish as a single “l
 
 ## Next Reads
 
-* **[Upper–Lower Split for Busy Parents]({% post_url 2025-04-27-upper-lower-split-for-busy-parents %})** – sneak-peek at next week’s deep dive.
-* **[Dad-Bod Debugging: Moving-Average Fat-Loss in Obsidian]({% post_url 2025-05-08-dad-bod-debugging %})** – shows the MA step dial in action.
+* **[Upper-Lower Split for Busy Parents]({% post_url 2025-04-27-upper-lower-split-for-busy-parents %})** – sneak-peek at next week's deep dive.
+* **[Dad-Bod Debugging: Moving-Average Fat-Loss in Obsidian]({% post_url 2025-05-02-dad-bod-debugging %})** – shows the MA step dial in action.
 * **[Writing Workflow with Obsidian + GitHub Pages]({% post_url 2023-01-23-writing-workflow %})** – the pipeline that turns these drafts into auto-updating pages.
