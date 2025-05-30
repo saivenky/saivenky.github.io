@@ -2,35 +2,51 @@
 layout: post
 title: "Why Hybrid Training Beats High-Intensity Classes for Software Engineers"
 categories: strength
-description: "The rationale behind an upper-lower split and low-intensity cardio for dev-dads."
+description: "Joint-friendly hybrid training—upper-lower strength + low-intensity cardio—for software engineers (and busy dads) who want muscle, focus, and zero post-HIIT hunger."
 tags: [hybrid, rationale, developer-dad]
-excerpt: "Before the workouts, here's why this minimalist hybrid approach wins on recovery, appetite, and joint health."
+excerpt: "Before the workouts, here's why this minimalist hybrid approach wins on recovery, hunger control, and joint health."
 created: 2025-05-29
 last_modified_at: 2025-05-29
 ---
 
-You've probably flirted with CrossFit boxes, 5k running streaks, or powerbuilding spreadsheets—only to watch your elbows, knees, or appetite rebel. This post lays out *why* the minimalist **upper-lower + NEAT** formula became my forever base after every other experiment sparked injury or brain-fog.
+I spent years chasing the **one simple program**—CrossFit classes that cost a fortune and left my elbows cranky, running streaks that fired up my knees, power-building plans that ballooned with accessory work yet skipped cardio.
 
-TL;DR If you spend eight hours at a keyboard and two chasing a toddler, you need a program that respects joints, attention span, and appetite. Hybrid training = heavy lifts + low-gear cardio.
+What finally stuck is simpler still: **two compound lifts, one low-gear cardio target, and a rest day whenever life—or joints—demand it.** No class fees, no mileage charts, no sprawling spreadsheets—just an upper-lower split plus NEAT/LISS that keeps joints happy, hunger tame, and strength climbing.
 
 ## Why This Framework Works for a Dev-Dad Schedule
 
-- **Compact sessions:** Two big lifts per day keep gym time ≲45 min.
-- **Recovery baked-in:** Upper → Lower → Rest micro-cycles give joints ≈72h between repeats and leave space for an extra rest when life hits.
-- **Brain-friendly cardio:** NEAT/LISS burns calories without the hunger spikes or post-WOD brain fog that sabotage deep-focus blocks.
+- **Compact sessions** – Two compound lifts per day → Out of the gym in ≲ 45 min.
+- **Built-in recovery** – Upper → Lower → Rest micro-cycle gives ~72 h before the same tissue is hit again (and you can always drop an extra rest day when life hits).
+- **Brain-friendly cardio** – NEAT/LISS burns calories without the hunger spikes or post-WOD haze that ruin deep-work blocks.
 
 **Glossary:**
 >- **NEAT** = every calorie burned outside formal exercise (e.g. steps, stroller pushes).
 >- **LISS** = steady cardio ≤65% HRmax (e.g. incline walk, ruck).
->- **Upper-Lower Split** = alternating upper body and lower body training sessions with at least one rest day after each Lower
+>- **Upper-Lower Split** = alternating upper body and lower body training sessions with at least one rest day after each lower body session.
 
 ## Why Other Popular Approaches Didn't Stick
 
-These experiments showed me that **simplicity, joint-friendliness, and appetite control** matter more than raw calorie burn.
-
 | Method | What I Liked | Deal-Breakers (for me) | Takeaway |
 | --- | --- | --- | --- |
-| **CrossFit-style WODs** | Big calorie burn; community energy | Box fees are $100+/month; awkward in commercial gym; post-HIIT hunger pangs | Fun but unsustainable for my wallet & appetite |
-| **"Big 3" Powerlifting** | Simple metric-driven strength | Overuse aches minus accessories; sessions > 60 min | I kept the heavy compounds, ditched long accessory lists |
-| **Regular Running** | Cheap; outdoors | Knee pain; hunger & fog past 5k | Swapped distance for incline walking & rucks |
-| **Bike / Erg** | Joint-friendly; weather-proof | Extra equipment only at gym; hard to stay consistent | Reserved as rainy-day backup |
+| **CrossFit-style WODs** | Big calorie burn, infectious vibe | $150+/mo box fees; awkward to DIY in a commercial gym; HIIT hunger spikes | Intensity is fun, but only if it doesn't eat my lunch (literally). |
+| **“Big 3” Powerlifting** | Simple, objective strength markers | Overuse aches without accessories; sessions creep past 60 min | Heavy compounds are gold; accessory overload is tin. |
+| **Regular Running** | Cheap, outdoors, meditative | Knee pain by week 3; hunger & fog when mileage > 5 km | Swapped mileage for incline walks & stroller rucks—same burn, zero ache. |
+| **Bike / Row Erg** | Joint-friendly, weather-proof | Requires gym slot or extra kit; novelty fades | Great rainy-day backup, not my cornerstone. |
+
+High-intensity or high-volume methods delivered short-term thrills **but** long-term friction on joints, schedule, and satiety. Now if I have lower back pain, I know it's beacuse of my bad posture at my desk chair and not the workouts I'm doing. I know that my The hybrid formula is boring on paper—and that's why I still do it.
+
+## How This Sets Up the Rest of the Series
+
+This post is *Part 1* of a five-part build-log that will finish as a single “living” guide.
+
+1. **(You are here)** – Rationale & failed experiments
+2. **Upper-Lower Blueprint** – 2-lift template, cluster-set rules
+3. **Moving-Average Cardio Dial** – NEAT/LISS and the 5-day weight MA
+4. **Two-Microcycle Snapshot** – 14-day calendar with step adjustments
+5. **One-App Analytics** – Obsidian workflow (with downloadable template)
+
+## Next Reads
+
+* **[Upper–Lower Split for Busy Parents]({% post_url 2025-04-27-upper-lower-split-for-busy-parents %})** – sneak-peek at next week’s deep dive.
+* **[Dad-Bod Debugging: Moving-Average Fat-Loss in Obsidian]({% post_url 2025-05-08-dad-bod-debugging %})** – shows the MA step dial in action.
+* **[Writing Workflow with Obsidian + GitHub Pages]({% post_url 2023-01-23-writing-workflow %})** – the pipeline that turns these drafts into auto-updating pages.
