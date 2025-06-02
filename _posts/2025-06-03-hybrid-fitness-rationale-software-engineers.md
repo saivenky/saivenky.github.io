@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Why Hybrid Training Beats High-Intensity Classes for Software Engineers"
+title: "Why Hybrid Fitness Beats High-Intensity Classes for Software Engineers"
 categories: strength
-description: "Joint-friendly hybrid training—upper-lower strength + low-intensity cardio—for software engineers (and busy dads) who want muscle, focus, and zero post-HIIT hunger."
+description: "Joint-friendly hybrid fitness—upper-lower strength + low-intensity cardio—for software engineers (and busy parents) who want muscle, focus, and zero post-HIIT hunger."
 tags: [hybrid, rationale, developer-dad]
 excerpt: "Before the workouts, here's why this minimalist hybrid approach wins on recovery, hunger control, and joint health."
+date: 2025-06-03 00:00:00 -0800
 created: 2025-05-29
-last_modified_at: 2025-05-29
+last_modified_at: 2025-06-01
 ---
 
 I spent years chasing the **one simple program**—CrossFit classes that cost a fortune and left my elbows cranky, running streaks that fired up my knees, power-building plans that ballooned with accessory work yet skipped cardio.
@@ -21,14 +22,14 @@ What finally stuck is simpler still: **two compound lifts, one low-gear cardio t
 
 **Glossary:**
 >- **NEAT** = every calorie burned outside formal exercise (e.g. steps, stroller pushes).
->- **LISS** = steady cardio ≤65% HRmax (e.g. incline walk, ruck).
+>- **LISS** = steady cardio ≤65% HRmax (e.g. incline walk, ruck). Almost an opposite of HIIT.
 >- **Upper-Lower Split** = alternating upper body and lower body training sessions with at least one rest day after each lower body session.
 
 ## Why Other Popular Approaches Didn't Stick
 
 | Method | What I Liked | Deal-Breakers (for me) | Takeaway |
 | --- | --- | --- | --- |
-| **CrossFit-style WODs** | Big calorie burn, infectious vibe | $150+/mo box fees; awkward to DIY in a commercial gym; HIIT hunger spikes | Intensity is fun, but only if it doesn't eat my lunch (literally). |
+| **CrossFit-style WODs** | Big calorie burn, infectious vibe | $150+/mo box fees; awkward to DIY in a commercial gym; HIIT hunger spikes | Intensity is fun, but only if it doesn't eat my lunch. |
 | **“Big 3” Powerlifting** | Simple, objective strength markers | Overuse aches without accessories; sessions creep past 60 min | Heavy compounds are gold; accessory overload is tin. |
 | **Regular Running** | Cheap, outdoors, meditative | Knee pain by week 3; hunger & fog when mileage > 5 km | Swapped mileage for incline walks & stroller rucks—same burn, zero ache. |
 | **Bike / Row Erg** | Joint-friendly, weather-proof | Requires gym slot or extra kit; novelty fades | Great rainy-day backup, not my cornerstone. |
