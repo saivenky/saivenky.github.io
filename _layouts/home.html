@@ -9,7 +9,7 @@ layout: default
 
   {{ content }}
 
-  {%- assign categories = "dev,strength,habit" | split: "," -%}
+  {%- assign categories = "strength,dev,habit" | split: "," -%}
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 
   {%- for cat in categories -%}
@@ -24,7 +24,12 @@ layout: default
 
       {%- assign posts = cat_posts | sort: "date" | reverse -%}
       <ul class="post-list">
-        {%- for post in posts limit:2 -%}
+        {%- if cat == "strength" -%}
+          {%- assign limit = 3 -%}
+        {%- else -%}
+          {%- assign limit = 1 -%}
+        {%- endif -%}
+        {%- for post in posts limit: limit -%}
           <li>
             <span class="post-meta">{{ post.date | date: date_format }}</span>
             <h3>

@@ -9,8 +9,8 @@ url: https://www.saitriesblogging.com
 header_pages:
   - about.md
   - preface.md
-  - dev/index.md
   - strength/index.md
+  - dev/index.md
   - habit/index.md
 
 google_analytics: G-277CKYV07S
