@@ -9,7 +9,7 @@ excerpt: "Three months of a minimalist hybrid strength-and-walking routine helpe
 description: "See the exact 90-day DEXA scan results---body-fat down 1.9%, and muscle gain of 5.7 lb---plus the minimalist hybrid fitness program any busy software engineer can follow."
 ---
 
-Three months of *bare-bones* lifting plus *low-intensity* cardio **reduced my body-fat by 1.9%** and **added 5.7 lb of muscle**, and didn't require crash-diets, 5a.m. runs, or any other heroic measures.
+Three months of *minimalist* strength training plus *low-intensity* cardio **reduced my body-fat by 1.9%** and **added 5.7 lb of muscle**, and didn't require crash-diets, 5a.m. runs, or any other heroic measures.
 
 ## From Baseline to Check-In
 
