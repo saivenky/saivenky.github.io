@@ -47,10 +47,10 @@ Maintenance calories or very slight deficit on most days. Protein 1 g/lb. No foo
 
 ## Debugging Common Myths
 
-| Myth | Reality from this block |
+| Myth | What I Realized |
 | --- | --- |
-| "You have to starve to lose fat." | A small deficit and adequate protein was enough to drop fat while gaining muscle. In fact, heavy dieting would have made me lose muscle too as your body goes into starvation mode. |
-| "You need to spend hours lifting to grow muscle." | Lift smarter, not harder. I made sure my time at the gym efficient and optimized for muscle growth, not for my ego. |
+| "You have to starve to lose fat." | A small deficit and adequate protein was enough to drop fat while gaining muscle. In fact, heavy dieting would have made me lose muscle too. |
+| "You need to spend hours lifting to grow muscle." | Lift smarter, not harder. I made sure my time at the gym was efficient and optimized for muscle growth, not for my ego. |
 | "Busy schedule means no gym time." | This has been the least time committment I've needed for a fitness routine. I was able to juggle my full-time job and toddler care without feeling overwhelmed. I was honestly surprised to see the numbers. |
 
 

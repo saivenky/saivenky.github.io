@@ -59,7 +59,7 @@ Find your starting working weight brings out two types of people:
 - **The cautious:** They start with a very light weight and never find their limit. Muscle growth only happens when you push yourself to near failure.
 - **The eager:** They start with a weight that is too heavy and never get the appropriate volume. You need time-under-tension to stimulate hypertrophy, which means you need to do enough reps to grow.
 
-With the protocol above, you'll be accumulating fatigue, which means the eager camp will feel the burn and hit failure before they get to what they _thought_ they could do. THe cautious camp gains confidence as they find a weight that is challenging but not too heavy.
+With the protocol above, you'll be accumulating fatigue, which means the eager camp will feel the burn and hit failure before they get to what they _thought_ they could do. The cautious camp gains confidence as they find a weight that is challenging but not too heavy.
 
 ### Working sets
 
@@ -71,13 +71,15 @@ With the protocol above, you'll be accumulating fatigue, which means the eager c
 
 ## Auto-Regulated Progression
 
+I don't want to make complicated decisions or follow spreadsheets. In fact, the software engineer in me likes simple if-then rules. These are the rules you can follow to auto-regulate your progression based on **how your body responds to training** (instead of arbitrary numbers on a spreadsheet):
+
 | **If** | **Then** | **Reasoning** |
 | --- | --- | --- |
-| **You get more than 12 reps** during your 1st and 2nd working sets for multiple sessions in a row | **Increase weight** next time (smallest jump possible). | You're stronger thank you think and need to push harder. |
+| **You get more than 12 reps** during your 1st and 2nd working sets for multiple sessions in a row | **Increase weight** next time (smallest jump possible). | You're stronger than you think and need to push harder. |
 | **You are not sore at all** (like not even a little bit) for a particular exercise | **Add a 4th set and 5th set**. | You're recovery is good and can handle more volume. |
-| **You get soreness again** after increasing sets | **Maintain the total sets and weight** as long as you can still hit your target reps with good form. | You're probably at your limit but recovery is still fine. |
-| **You start failing reps** (more than 2 reps shy of the reps during the last session with the same weight) | **Drop back down to 3 or 4 sets**. | You need a bit more recovery to push harder. |
-| **You stall on reps** multiple sessions in a row | add an extra rest day at the end of the microcycle. | Your recovery is not enough for your body to adapt to the reps and weight. |
+| **You get soreness again** after increasing sets | **Maintain the total sets and weight** as long as you can still hit your target reps with good form. | You're probably at your limit but recovery is still fine for now. |
+| **You start failing reps** (more than 2 reps shy of the reps during the last session with the same weight) | **Drop back down to 3 or 4 sets**. | You need a bit more recovery to push harder and less volume helps you recover more. |
+| **You stall on reps** multiple sessions in a row | **Add an extra rest day** at the end of the microcycle. | Your recovery is not enough for your body to adapt to the reps and weight. |
 
 _Insert an optional extra rest day whenever joints or CNS feel off._
 
