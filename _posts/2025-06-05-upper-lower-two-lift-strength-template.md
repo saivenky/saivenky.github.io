@@ -10,7 +10,7 @@ created: 2025-06-01
 last_modified_at: 2025-06-13
 ---
 
-Between Slack pings and toddler tantrums, attention is your scarcest resource. I don't have time for ego lifts or wasted reps anymore now that I'm a dad. But I still wanted to be strong enough to carry my toddler and groceries at the same time and avoid the dreaded dad-bod. This routine does just that.
+Between Slack pings and toddler tantrums, attention is your scarcest resource. I don't have time for ego lifts or wasted reps anymore now that I'm a dad. But I still want to be strong enough to carry my toddler and groceries at the same time, while avoiding the dreaded dad-bod. This routine does just that.
 
 ## Program Overview at a Glance
 
