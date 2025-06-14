@@ -40,7 +40,7 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
+    {{ content | replace: '--&gt;', '→' }}
   </div>
 
   {%- if site.disqus.shortname -%}
