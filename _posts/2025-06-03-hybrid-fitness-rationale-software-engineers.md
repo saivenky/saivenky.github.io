@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Hybrid Fitness Training Is Optimal for Software Engineers"
+title: "[Hybrid Fitness] Why It Works for Software Engineers"
 categories: strength
 description: "Joint-friendly hybrid fitness---upper-lower strength + low-intensity cardio---for software engineers (and busy parents) who want to be healthy and strong without aches."
 tags: [hybrid, rationale, developer-dad]

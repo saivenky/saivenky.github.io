@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Upper-Lower Training Split: Strength Template for Busy Parents"
+title: "[Hybrid Fitness] Upper-Lower Strength Plan for Busy Parents"
 categories: strength
 description: "A minimalist strength template for busy people---two lifts per session and auto-regulated progression."
 tags: [strength, upper-lower, cluster-sets]
