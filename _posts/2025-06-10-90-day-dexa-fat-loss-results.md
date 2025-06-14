@@ -69,6 +69,6 @@ I'll run another DEXA mid-August and report back.
 
 _Next week I'll share the exact cardio routine I followed to achieve these results._ In the meantime, here are some related posts you might find useful:
 
-* **[Hybrid Fitness Rationale for Software Engineers]({% post_url 2025-06-03-hybrid-fitness-rationale-software-engineers %})** --- why blending strength and cardio fits desk-bound careers and busy schedules.
-* **[Upper/Lower Strength Template]({% post_url 2025-06-05-upper-lower-two-lift-strength-template %})** --- the exact template that powered these results.
+* **[(Part 1/5) Why Hybrid Fitness Works for Software Engineers]({% post_url 2025-06-03-hybrid-fitness-rationale-software-engineers %})** --- why blending strength and cardio fits desk-bound careers and busy schedules.
+* **[(Part 2/5) Upper-Lower Strength Plan for Busy Parents]({% post_url 2025-06-05-upper-lower-two-lift-strength-template %})** --- the exact template that powered these results.
 * **[Dad Bod Debugging]({% post_url 2025-05-02-dad-bod-debugging %})** — the setup and mindset shift that led to this DEXA check-in.

@@ -36,18 +36,16 @@ What I finally found allows me to be fit and healthy enough to chase my toddler 
 
 In short, these all left me with long-term stress on joints, time, and/or hunger. Nowadays if I have lower back pain, I know it's because of my bad posture at my desk chair and not the workouts I'm doing.
 
-## How This Sets Up the Rest of the Series
+## Next Reads
 
-This post is *Part 1* of a five-part build-log that will finish as a single "living" guide.
+This post is *Part 1* of a five-part series that will finish as a single "living" guide.
 
 1. **(You are here)** --- Rationale and failed experiments
-2. **Upper-Lower Blueprint** --- 2-lift template using cluster sets
+2. **[Upper-Lower Strength Plan]({% post_url 2025-04-27-upper-lower-split-for-busy-parents %})** --- time-optimized upper-lower strength routine for people with busy schedules.
 3. **Moving-Average Cardio Dial** --- NEAT/LISS and the 5-day weight MA
 4. **Two-Microcycle Snapshot** --- 14-day calendar
 5. **One-App Analytics** --- Obsidian workflow (with downloadable template)
 
-## Next Reads
-
-* **[Upper-Lower Split for Busy Parents]({% post_url 2025-04-27-upper-lower-split-for-busy-parents %})** --- sneak-peek at next week's deep dive.
+Or read other related posts:
 * **[Dad-Bod Debugging: Moving-Average Fat-Loss in Obsidian]({% post_url 2025-05-02-dad-bod-debugging %})** --- shows the MA step dial in action.
 * **[90-Day DEXA Fat-Loss Results]({% post_url 2025-06-10-90-day-dexa-fat-loss-results %})** --- if rationale wasn't enough, here are the numbers.

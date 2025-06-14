@@ -87,5 +87,5 @@ _Insert an optional extra rest day whenever joints or CNS feel off._
 
 This post is *Part 2* of a five-part series that will finish as a single "living" guide for hybrid fitness training. Here's what else to read next:
 
-* **[Why Hybrid Fitness Training Is Optimal for Software Engineers]({% post_url 2025-06-03-hybrid-fitness-rationale-software-engineers %})** (_Part 1_) --- find out why this approach works for busy parents and devs.
+* **[(Part 1/5) Why Hybrid Fitness Works for Software Engineers]({% post_url 2025-06-03-hybrid-fitness-rationale-software-engineers %})** --- find out why this approach works for busy parents and devs.
 * **[90-Day DEXA Fat-Loss Results]({% post_url 2025-06-10-90-day-dexa-fat-loss-results %})** --- the muscle gain possible following this strength template for 3 months.
