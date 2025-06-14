@@ -16,7 +16,7 @@ What I finally found allows me to be fit and healthy enough to chase my toddler 
 
 ## Why This Framework Works for a Dev-Dad Schedule
 
-- **Short sessions** --- 2 lifts per day \--> I'm in and out of the gym in <45 min. On busy gym days where the
+- **Short sessions** --- 2 lifts per day \--> I'm in and out of the gym in <45 min. On busy gym days where the machines are busy, I can still finish in <60 min.
 - **Built-in, flexible recovery** --- Upper \--> Lower \--> Rest micro-cycle gives ~72 hr before the same muscle is hit again (and you can always add an extra rest day when things feel achy).
 - **Gentle, simple cardio** --- No need to pump myself up before cardio anymore. NEAT/LISS burns calories without post-run hunger or brain fog that ruins deep-work blocks. It also saves time since I'm not coming back drenched in sweat and needing a shower.
 
