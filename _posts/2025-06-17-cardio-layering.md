@@ -77,3 +77,6 @@ This post is *Part 3* of a five-part series that will finish as a single "living
 
 * **[(Part 1/5) Why Hybrid Fitness Works for Software Engineers]({% post_url 2025-06-03-hybrid-fitness-rationale-software-engineers %})** --- why this approach suits busy parents and devs.
 * **[(Part 2/5) Upper-Lower Strength Plan]({% post_url 2025-06-05-upper-lower-two-lift-strength-template %})** --- time-optimised strength routine for tight schedules.
+
+Or read other related posts:
+* **[DEXA Fat-Loss Results]({% post_url 2025-06-10-90-day-dexa-fat-loss-results %})** --- see how much fat loss I achieved in 90 days with cardio layering.

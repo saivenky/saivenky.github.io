@@ -71,4 +71,4 @@ _Next week I'll share the exact cardio routine I followed to achieve these resul
 
 * **[(Part 1/5) Why Hybrid Fitness Works for Software Engineers]({% post_url 2025-06-03-hybrid-fitness-rationale-software-engineers %})** --- why blending strength and cardio fits desk-bound careers and busy schedules.
 * **[(Part 2/5) Upper-Lower Strength Plan for Busy Parents]({% post_url 2025-06-05-upper-lower-two-lift-strength-template %})** --- the exact template that powered these results.
-* **[Dad Bod Debugging]({% post_url 2025-05-02-dad-bod-debugging %})** — the setup and mindset shift that led to this DEXA check-in.
+* **[(Part 3/5) Cardio Layering]({% post_url 2025-06-17-cardio-layering %})** --- the exact cardio approach I used to keep fat loss sustainable.
