@@ -5,7 +5,7 @@ categories: strength
 description: "How to integrate cardio into your daily routine without it feeling like a chore. Focus on NEAT and LISS for sustainable fat loss."
 tags: [cardio, neat, liss, fat-loss, developer-dad]
 excerpt: "Make cardio so easy that you don't even have to think about it. Focus on NEAT and LISS for sustainable fat loss without the chore."
-date: 2025-06-17 00:13:00 -0800
+date: 2025-06-17
 created: 2025-06-13
 last_modified_at: 2025-06-17
 ---
