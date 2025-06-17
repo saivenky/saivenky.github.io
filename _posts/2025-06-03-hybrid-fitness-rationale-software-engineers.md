@@ -41,7 +41,7 @@ In short, these all left me with long-term stress on joints, time, and/or hunger
 This post is *Part 1* of a five-part series that will finish as a single "living" guide.
 
 1. **(You are here)** --- Rationale and failed experiments
-2. **[Upper-Lower Strength Plan]({% post_url 2025-04-27-upper-lower-split-for-busy-parents %})** --- time-optimized upper-lower strength routine for people with busy schedules.
+2. **[Upper-Lower Strength Plan]({% post_url 2025-06-05-upper-lower-two-lift-strength-template %})** --- time-optimized upper-lower strength routine for people with busy schedules.
 3. **Moving-Average Cardio Dial** --- NEAT/LISS and the 5-day weight MA
 4. **Two-Microcycle Snapshot** --- 14-day calendar
 5. **One-App Analytics** --- Obsidian workflow (with downloadable template)
