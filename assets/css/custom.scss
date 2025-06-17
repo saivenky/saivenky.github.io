@@ -1,0 +1,19 @@
+---
+# This front-matter lets Jekyll process Sass
+---
+
+/* ------------- override Minima blockquotes ------------- */
+
+blockquote {
+  $brand-color: #adadad; /* Minima’s accent */
+  $brand-color-light: #d4d4d4; /* light version of the accent */
+
+  border-left: 4px solid $brand-color;            /* Minima’s accent */
+  background: rgba($brand-color-light, .1);       /* soft tint */
+  padding: 0.75rem 1rem;
+  margin: 1.5rem 0;
+  font-style: normal;                             /* kill full italic */
+  color: #333;
+
+  p:last-child { margin-bottom: 0; }
+}

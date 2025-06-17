@@ -56,3 +56,12 @@ plugins:
  - jekyll-redirect-from
 
 permalink: /:slug
+
+sass:
+  load_paths:
+    - _sass   # default Minima path
+    - assets/css   # add our custom folder
+
+# Let Jekyll know to compile your custom file too.
+include:
+  - assets/css/custom.scss
