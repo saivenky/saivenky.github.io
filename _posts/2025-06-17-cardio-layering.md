@@ -2,7 +2,7 @@
 layout: post
 title: "[Hybrid Fitness] Cardio Layering Method for Busy Schedules"
 categories: strength
-description: "How to integrate cardio into your daily routine without it feeling like a chore. Focus on NEAT and LISS for sustainable fat loss."
+description: "How to habit-stack your cardio into your daily routine so doesn't feel like a chore."
 tags: [cardio, neat, liss, fat-loss, developer-dad]
 excerpt: "Make cardio so easy that you don't even have to think about it. Focus on NEAT and LISS for sustainable fat loss without the chore."
 date: 2025-06-17
